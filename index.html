@@ -24,6 +24,15 @@
      js.src = "//connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
+
+   FB.api(
+       "/565500876822283",
+       function (response) {
+           if (response && !response.error) {
+               console.log(response);
+           }
+       }
+   );
 </script>
 
   </head>
