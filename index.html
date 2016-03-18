@@ -26,17 +26,25 @@
     // for FB.getLoginStatus().
     if (response.status === 'connected') {
       // Logged into your app and Facebook.
-      testAPI();
+      //testAPI();
 
-     FB.api(
-         "/565500876822283/feed",
-         function (response) {
-             if (response && !response.error) {
-                 console.log(response);
-             }
-             console.log(response);
-         }
-     );
+      var items = [];
+      function apiCall(next) {
+        FB.api(next, function (response) {
+          for (var i = 0; i < response.data.length; i++) {
+            //add all posts to the items array
+            items.push(response.data[i]);
+          }
+          if (response.paging && response.paging.next) {
+            //call function recursively until there is no "next"
+            apiCall(response.paging.next);
+          } else {
+            //this is when it´s done
+            console.log(items);
+          }
+        });
+      }
+      apiCall("/565500876822283/feed");
     } else if (response.status === 'not_authorized') {
       // The person is logged into Facebook, but not your app.
       document.getElementById('status').innerHTML = 'Please log ' +
@@ -93,7 +101,7 @@
           data-show-faces="true">
       </div>
 
-      <fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+      <fb:login-button scope="public_profile,email,user_posts,user_managed_groups" onlogin="checkLoginState();">
       </fb:login-button>
 
     <section class="page-header">
