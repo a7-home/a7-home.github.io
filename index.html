@@ -8,6 +8,8 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <script src="https://www.promisejs.org/polyfills/promise-done-7.0.4.min.js"></script>
+    <script src="promise-fb.js"></script>
 <script>
 
   window.fbAsyncInit = function() {
@@ -28,6 +30,7 @@
       // Logged into your app and Facebook.
       //testAPI();
 
+      /*
       function apiCall(next) {
         FB.api(next, function (response) {
           for (var i = 0; i < response.data.length; i++) {
@@ -40,6 +43,10 @@
         });
       }
       apiCall("/565500876822283/feed");
+      */
+      fb_api("/565500876822283/feed").then(function (post) {
+        console.log(post);
+      });
     } else if (response.status === 'not_authorized') {
       // The person is logged into Facebook, but not your app.
       document.getElementById('status').innerHTML = 'Please log ' +
