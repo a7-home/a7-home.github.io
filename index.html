@@ -28,19 +28,14 @@
       // Logged into your app and Facebook.
       //testAPI();
 
-      var items = [];
       function apiCall(next) {
         FB.api(next, function (response) {
           for (var i = 0; i < response.data.length; i++) {
-            //add all posts to the items array
-            items.push(response.data[i]);
+            console.log(response.data[i]);
           }
           if (response.paging && response.paging.next) {
             //call function recursively until there is no "next"
             apiCall(response.paging.next);
-          } else {
-            //this is when it´s done
-            console.log(items);
           }
         });
       }
