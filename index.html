@@ -10,9 +10,11 @@
     <script>
       window.fbAsyncInit = function() {
         FB.init({
-          appId      : '188623204850625',
+          //appId      : '188623204850625', // production
+          //appId      : '190564001323212', // testing
+          appId      : '145634995501895', // graph api explorer
           xfbml      : true,
-          version    : 'v2.5'
+          version    : 'v2.3'
         });
 
         function moveRef(from, to) {
@@ -29,9 +31,11 @@
 
         function statusChangeCallback(response) {
           if (response.status === 'connected') {
+            console.log(response.status);
             //var groupId = "565500876822283"; // a7.home.tw
-            var groupId = "1444562472508601"; // ia7home
             //var groupId = "504080216343231"; // farglory.a7home
+            var groupId = "1444562472508601"; // ia7home
+            //var groupId = "194889130690889"; // farglory.a7
             rxFbApi("/" + groupId + "/feed?fields=from,message").flatMap(function (post) {
               return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
             })
@@ -44,7 +48,9 @@
               new Firebase('https://a7-home.firebaseio.com/').child(groupId).child("messages").child(msg.id).set(msg);
             });
           } else if (response.status === 'not_authorized') {
+            console.log(response.status);
           } else {
+            console.log(response.status);
           }
         }
 
@@ -70,7 +76,7 @@
     </script>
   </head>
   <body>
-    <fb:login-button scope="public_profile,email,user_posts" onlogin="checkLoginState();">
+    <fb:login-button scope="public_profile,email,user_posts,user_groups" onlogin="checkLoginState();">
     </fb:login-button>
   </body>
 </html>
