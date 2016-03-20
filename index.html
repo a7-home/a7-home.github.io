@@ -27,10 +27,10 @@
     // Full docs on the response object can be found in the documentation
     // for FB.getLoginStatus().
     if (response.status === 'connected') {
-      rx_fb_api("/565500876822283/feed?fields=from,message").flatMap(function (post) {
-        return Rx.Observable.of(post).concatMap(rx_fb_api(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
-      }).subscribe(function (post) {
-        console.log(post);
+      rx_fb_api("/565500876822283/feed").flatMap(function (post) {
+        return rx_fb_api(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream");
+      }).subscribe(function (comment) {
+        console.log(comment);
       });
 
     } else if (response.status === 'not_authorized') {
