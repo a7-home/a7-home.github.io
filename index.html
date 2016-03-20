@@ -35,7 +35,7 @@
 
           //var rootRef = new Firebase('https://a7-home.firebaseio.com/');
           //var messagesRef = new Firebase('https://a7-home.firebaseio.com/').child("messages");
-          new Firebase('https://a7-home.firebaseio.com/').child("messages").push().set(msg);
+          new Firebase('https://a7-home.firebaseio.com/').child("messages").child(msg.id).set(msg);
         });
 
       } else if (response.status === 'not_authorized') {
