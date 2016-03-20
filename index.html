@@ -15,8 +15,21 @@
           version    : 'v2.5'
         });
 
+        function moveRef(from, to) {
+          from.once('value', function (snap) {
+            to.set(snap.val(), function (error) {
+              if (!error) {
+                from.remove();
+              } else {
+                console.error(error);
+              }
+            });
+          });
+        }
+
         function statusChangeCallback(response) {
           if (response.status === 'connected') {
+            /*
             rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
               return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
             })
@@ -28,7 +41,9 @@
               //var messagesRef = new Firebase('https://a7-home.firebaseio.com/').child("messages");
               new Firebase('https://a7-home.firebaseio.com/').child("messages").child(msg.id).set(msg);
             });
-
+            */
+            rootRef = new Firebase('https://a7-home.firebaseio.com/');
+            moveRef(rootRef.child("messages"), rootRef.child("565500876822283"));
           } else if (response.status === 'not_authorized') {
           } else {
           }
