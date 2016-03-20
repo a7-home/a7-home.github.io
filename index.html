@@ -31,7 +31,7 @@
         rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
           return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
         })
-        .zip(Rx.Observable.interval(300), function(a, b) { return a; })
+        .zip(Rx.Observable.interval(3), function(a, b) { return a; })
         .subscribe(function (msg) {
           console.log(msg);
 
