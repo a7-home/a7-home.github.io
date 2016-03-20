@@ -27,8 +27,8 @@
       // Full docs on the response object can be found in the documentation
       // for FB.getLoginStatus().
       if (response.status === 'connected') {
-        rx_fb_api("/565500876822283/feed?fields=from,message").flatMap(function (post) {
-          return Rx.Observable.of(post).concatMap(rx_fb_api(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
+        rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
+          return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
         }).take(3).subscribe(function (post) {
           console.log(post);
         });

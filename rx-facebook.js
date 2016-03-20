@@ -1,11 +1,11 @@
 // require rx-facebook.js
-function rx_fb_api(next) {
+function rxFbApi(next) {
   return Rx.Observable.create(function (observer) {
-    _rx_fb_api(next, observer);
+    _rxFbApi(next, observer);
   });
 }
 
-function _rx_fb_api(next, observer) {
+function _rxFbApi(next, observer) {
   FB.api(next, function (response) {
     if (response.error) {
       observer.onError(response.error);
@@ -20,7 +20,7 @@ function _rx_fb_api(next, observer) {
 
     if (!observer.unsubscribed) {
       if (response.paging && response.paging.next) {
-        _rx_fb_api(response.paging.next, observer);
+        _rxFbApi(response.paging.next, observer);
       } else {
         observer.onCompleted();
       }
