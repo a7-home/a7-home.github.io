@@ -31,21 +31,41 @@
       //testAPI();
 
       /*
-      function apiCall(next) {
-        FB.api(next, function (response) {
-          for (var i = 0; i < response.data.length; i++) {
-            console.log(response.data[i]);
-          }
-          if (response.paging && response.paging.next) {
-            //call function recursively until there is no "next"
-            apiCall(response.paging.next);
-          }
-        });
+        function fbGetAll(next) {
+          var data = [];
+          FB.api(next, function (response) {
+            for (var i = 0; i < response.data.length; i++) {
+              data.push(data[i]);
+            }
+            if (response.paging && response.paging.next) {
+              //call function recursively until there is no "next"
+              fbGet(response.paging.next);
+            }
+          });
+        return data;
       }
-      apiCall("/565500876822283/feed");
+      posts = fbGetAll("/565500876822283/feed");
+      function fbGetComment(post) {
+        return fbGetAll("/${post.id}/feed");
+      }
+      var comments = [];
+      for (var post : posts) {
+        var tmp = fbGetComments(post);
+        comments.push(tmp);
+      }
       */
-      rx_fb_api("/565500876822283/feed").subscribe(function (post) {
-        console.log(post);
+
+
+
+
+
+
+
+
+      rx_fb_api("/565500876822283/feed").flatMap(function (post) {
+        return rx_fb_api(post.id + "/comments?fields=from,message");
+      }).subscribe(function (comment) {
+        console.log(comment);
       });
     } else if (response.status === 'not_authorized') {
       // The person is logged into Facebook, but not your app.
