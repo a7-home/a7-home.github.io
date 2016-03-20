@@ -29,7 +29,7 @@
       if (response.status === 'connected') {
         rx_fb_api("/565500876822283/feed?fields=from,message").flatMap(function (post) {
           return Rx.Observable.of(post).concatMap(rx_fb_api(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
-        }).take(30).subscribe(function (post) {
+        }).take(3).subscribe(function (post) {
           console.log(post);
         });
 

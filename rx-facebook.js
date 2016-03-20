@@ -13,11 +13,17 @@ function _rx_fb_api(next, observer) {
     }
 
     for (var i = 0; i < response.data.length; i++) {
-      observer.onNext(response.data[i]);
+      if (!observer.unsubscribed) {
+        observer.onNext(response.data[i]);
+      }
     }
 
-    if (response.paging && response.paging.next) {
-      _rx_fb_api(response.paging.next, observer);
+    if (!observer.unsubscribed) {
+      if (response.paging && response.paging.next) {
+        _rx_fb_api(response.paging.next, observer);
+      } else {
+        observer.onCompleted();
+      }
     }
   });
 }
