@@ -38,7 +38,9 @@
             //var groupId = "1444562472508601"; // ia7home // iA7
             var groupId = "194889130690889"; // farglory.a7 // 遠雄住戶
             rxFbApi("/" + groupId + "/feed?fields=from,message").flatMap(function (post) {
-              return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
+              return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream").doOnNext(function (comment) {
+                comment.post_id = post.id;
+              }));
             })
             .zip(Rx.Observable.interval(3), function(a, b) { return a; })
             .subscribe(function (msg) {
