@@ -63,10 +63,11 @@
 
 
       rx_fb_api("/565500876822283/feed").flatMap(function (post) {
-        return rx_fb_api(post.id + "/comments?fields=from,message");
+        return rx_fb_api(post.id + "/comments?fields=from,message,date");
       }).subscribe(function (comment) {
         console.log(comment);
       });
+
     } else if (response.status === 'not_authorized') {
       // The person is logged into Facebook, but not your app.
       document.getElementById('status').innerHTML = 'Please log ' +
