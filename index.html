@@ -10,10 +10,10 @@
     <script>
       window.fbAsyncInit = function() {
         FB.init({
-          //appId      : '188623204850625', // production
-          //appId      : '190564001323212', // testing
-          //appId      : '145634995501895', // graph api explorer
-          appId      : '1587345544879203', // RxF4c36ook­-­test
+          //appId      : '188623204850625', // production, but v2.5 only
+          //appId      : '190564001323212', // testing, but v2.5 only
+          //appId      : '145634995501895', // graph api explorer, but domain url cannot pass
+          appId      : '1587345544879203', // RxF4c36ook­-­test that backports v2.3 with user_groups
           xfbml      : true,
           version    : 'v2.3'
         });
@@ -35,8 +35,8 @@
             console.log(response.status);
             //var groupId = "565500876822283"; // a7.home.tw
             //var groupId = "504080216343231"; // farglory.a7home
-            var groupId = "1444562472508601"; // ia7home
-            //var groupId = "194889130690889"; // farglory.a7
+            //var groupId = "1444562472508601"; // ia7home
+            var groupId = "194889130690889"; // farglory.a7
             rxFbApi("/" + groupId + "/feed?fields=from,message").flatMap(function (post) {
               return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
             })
