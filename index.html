@@ -30,7 +30,10 @@
       if (response.status === 'connected') {
         rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
           return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
-        }).take(3).subscribe(function (msg) {
+        })
+        .zip(Rx.Observable.interval(1000), function(a, b) { return a; })
+        .take(3)
+        .subscribe(function (msg) {
           console.log(msg);
 
           //var rootRef = new Firebase('https://a7-home.firebaseio.com/');
