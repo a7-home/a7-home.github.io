@@ -27,43 +27,8 @@
     // Full docs on the response object can be found in the documentation
     // for FB.getLoginStatus().
     if (response.status === 'connected') {
-      // Logged into your app and Facebook.
-      //testAPI();
-
-      /*
-        function fbGetAll(next) {
-          var data = [];
-          FB.api(next, function (response) {
-            for (var i = 0; i < response.data.length; i++) {
-              data.push(data[i]);
-            }
-            if (response.paging && response.paging.next) {
-              //call function recursively until there is no "next"
-              fbGet(response.paging.next);
-            }
-          });
-        return data;
-      }
-      posts = fbGetAll("/565500876822283/feed");
-      function fbGetComment(post) {
-        return fbGetAll("/${post.id}/feed");
-      }
-      var comments = [];
-      for (var post : posts) {
-        var tmp = fbGetComments(post);
-        comments.push(tmp);
-      }
-      */
-
-
-
-
-
-
-
-
       rx_fb_api("/565500876822283/feed").flatMap(function (post) {
-        return rx_fb_api(post.id + "/comments?fields=from,message,date");
+        return rx_fb_api(post.id + "/comments?fields=from,message,updated_time");
       }).subscribe(function (comment) {
         console.log(comment);
       });
