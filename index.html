@@ -1,87 +1,62 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <meta charset="UTF-8">
-    <title>A7-home.GitHub.io by a7-home</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <meta charset="UTF-8" />
+    <title>a7-home</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/4.1.0/rx.all.min.js"></script>
     <script src="rx-facebook.js"></script>
     <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
-<script>
 
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '188623204850625',
-      xfbml      : true,
-      version    : 'v2.5'
-    });
-
-    function statusChangeCallback(response) {
-      console.log('statusChangeCallback');
-      console.log(response);
-      // The response object is returned with a status field that lets the
-      // app know the current login status of the person.
-      // Full docs on the response object can be found in the documentation
-      // for FB.getLoginStatus().
-      if (response.status === 'connected') {
-        rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
-          return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
-        })
-        .zip(Rx.Observable.interval(3), function(a, b) { return a; })
-        .subscribe(function (msg) {
-          console.log(msg);
-
-          //var rootRef = new Firebase('https://a7-home.firebaseio.com/');
-          //var messagesRef = new Firebase('https://a7-home.firebaseio.com/').child("messages");
-          new Firebase('https://a7-home.firebaseio.com/').child("messages").child(msg.id).set(msg);
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '188623204850625',
+          xfbml      : true,
+          version    : 'v2.5'
         });
 
-      } else if (response.status === 'not_authorized') {
-        // The person is logged into Facebook, but not your app.
-        document.getElementById('status').innerHTML = 'Please log ' +
-          'into this app.';
-      } else {
-        // The person is not logged into Facebook, so we're not sure if
-        // they are logged into this app or not.
-        document.getElementById('status').innerHTML = 'Please log ' +
-          'into Facebook.';
+        function statusChangeCallback(response) {
+          if (response.status === 'connected') {
+            rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
+              return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
+            })
+            .zip(Rx.Observable.interval(3), function(a, b) { return a; })
+            .subscribe(function (msg) {
+              console.log(msg);
+
+              //var rootRef = new Firebase('https://a7-home.firebaseio.com/');
+              //var messagesRef = new Firebase('https://a7-home.firebaseio.com/').child("messages");
+              new Firebase('https://a7-home.firebaseio.com/').child("messages").child(msg.id).set(msg);
+            });
+
+          } else if (response.status === 'not_authorized') {
+          } else {
+          }
+        }
+
+         FB.getLoginStatus(function(response) {
+             statusChangeCallback(response);
+         });
+      };
+
+      function checkLoginState() {
+        FB.getLoginStatus(function(response) {
+          statusChangeCallback(response);
+        });
       }
-    }
 
+      (function(d, s, id){
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) {return;}
+         js = d.createElement(s); js.id = id;
+         js.src = "https://connect.facebook.net/en_US/sdk.js";
+         fjs.parentNode.insertBefore(js, fjs);
 
-     FB.getLoginStatus(function(response) {
-         statusChangeCallback(response);
-     });
-  };
-
-  // This function is called when someone finishes with the Login
-  // Button.  See the onlogin handler attached to it in the sample
-  // code below.
-  function checkLoginState() {
-    FB.getLoginStatus(function(response) {
-      statusChangeCallback(response);
-    });
-  }
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-
-   }(document, 'script', 'facebook-jssdk'));
-
-
-</script>
-
+       }(document, 'script', 'facebook-jssdk'));
+    </script>
   </head>
   <body>
-      <fb:login-button scope="public_profile,email,user_posts" onlogin="checkLoginState();">
-      </fb:login-button>
+    <fb:login-button scope="public_profile,email,user_posts" onlogin="checkLoginState();">
+    </fb:login-button>
   </body>
 </html>
