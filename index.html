@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/4.1.0/rx.all.min.js"></script>
     <script src="rx-facebook.js"></script>
+    <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
 <script>
 
   window.fbAsyncInit = function() {
@@ -29,8 +30,12 @@
       if (response.status === 'connected') {
         rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
           return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
-        }).take(3).subscribe(function (post) {
-          console.log(post);
+        }).take(3).subscribe(function (msg) {
+          console.log(msg);
+
+          //var rootRef = new Firebase('https://a7-home.firebaseio.com/');
+          //var messagesRef = new Firebase('https://a7-home.firebaseio.com/').child("messages");
+          new Firebase('https://a7-home.firebaseio.com/').child("messages").push().set(msg);
         });
 
       } else if (response.status === 'not_authorized') {
