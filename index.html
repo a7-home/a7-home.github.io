@@ -29,8 +29,10 @@
 
         function statusChangeCallback(response) {
           if (response.status === 'connected') {
-            /*
-            rxFbApi("/565500876822283/feed?fields=from,message").flatMap(function (post) {
+            //var groupId = "565500876822283"; // a7.home.tw
+            //var groupId = "1444562472508601"; // ia7home
+            var groupId = "504080216343231"; // farglory.a7home
+            rxFbApi("/" + groupId + "/feed?fields=from,message").flatMap(function (post) {
               return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
             })
             .zip(Rx.Observable.interval(3), function(a, b) { return a; })
@@ -39,12 +41,8 @@
 
               //var rootRef = new Firebase('https://a7-home.firebaseio.com/');
               //var messagesRef = new Firebase('https://a7-home.firebaseio.com/').child("messages");
-              new Firebase('https://a7-home.firebaseio.com/').child("messages").child(msg.id).set(msg);
+              new Firebase('https://a7-home.firebaseio.com/').child(groupId).child("messages").child(msg.id).set(msg);
             });
-            */
-            rootRef = new Firebase('https://a7-home.firebaseio.com/');
-            moveRef(rootRef.child("565500876822283"), rootRef.child("tmp").child("messages"));
-            moveRef(rootRef.child("tmp"), rootRef.child("565500876822283"));
           } else if (response.status === 'not_authorized') {
           } else {
           }
