@@ -43,7 +43,8 @@
             });
             */
             rootRef = new Firebase('https://a7-home.firebaseio.com/');
-            moveRef(rootRef.child("messages"), rootRef.child("565500876822283"));
+            moveRef(rootRef.child("565500876822283"), rootRef.child("tmp").child("messages"));
+            moveRef(rootRef.child("tmp"), rootRef.child("565500876822283"));
           } else if (response.status === 'not_authorized') {
           } else {
           }
