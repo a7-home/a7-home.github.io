@@ -33,10 +33,10 @@
         function statusChangeCallback(response) {
           if (response.status === 'connected') {
             console.log(response.status);
-            //var groupId = "565500876822283"; // a7.home.tw
-            //var groupId = "504080216343231"; // farglory.a7home
-            //var groupId = "1444562472508601"; // ia7home
-            var groupId = "194889130690889"; // farglory.a7
+            //var groupId = "565500876822283"; // a7.home.tw // a7 準鄰居
+            //var groupId = "504080216343231"; // farglory.a7home // 遠雄文青
+            //var groupId = "1444562472508601"; // ia7home // iA7
+            var groupId = "194889130690889"; // farglory.a7 // 遠雄住戶
             rxFbApi("/" + groupId + "/feed?fields=from,message").flatMap(function (post) {
               return Rx.Observable.of(post).concatMap(rxFbApi(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream"));
             })
