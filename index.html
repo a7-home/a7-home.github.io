@@ -28,7 +28,7 @@
     // for FB.getLoginStatus().
     if (response.status === 'connected') {
       rx_fb_api("/565500876822283/feed").flatMap(function (post) {
-        return rx_fb_api(post.id + "/comments?fields=from,message,created_time,updated_time");
+        return rx_fb_api(post.id + "/comments?fields=from,message,created_time,updated_time&filter=stream");
       }).subscribe(function (comment) {
         console.log(comment);
       });
