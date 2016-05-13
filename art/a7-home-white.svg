@@ -1618,9 +1618,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="0.89216992"
-     inkscape:cx="2321.7315"
-     inkscape:cy="1232.2525"
+     inkscape:zoom="0.3154297"
+     inkscape:cx="3730.8532"
+     inkscape:cy="-5089.4009"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1628,7 +1628,7 @@
      showguides="false" />
   <g
      id="g8700"
-     transform="matrix(0.90628295,0,0,0.90628295,-3593.6125,5310.6413)">
+     transform="matrix(0.90628295,0,0,0.90628295,-6836.8074,6134.9137)">
     <rect
        style="opacity:1;fill:#ba2425;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect12911"
@@ -3323,7 +3323,7 @@
   </g>
   <g
      id="g8712"
-     transform="matrix(0.90628295,0,0,0.90628295,-5821.6693,5091.0409)">
+     transform="matrix(0.90628295,0,0,0.90628295,-6766.4123,5370.0254)">
     <rect
        style="opacity:1;fill:#d08246;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect8602"
@@ -3392,7 +3392,7 @@
   </g>
   <g
      id="g8725"
-     transform="matrix(0.90628295,0,0,0.90628295,-4686.7674,4822.3716)">
+     transform="matrix(0.90628295,0,0,0.90628295,-6639.659,5386.6812)">
     <rect
        ry="9.296567"
        y="867.16956"
@@ -4662,5 +4662,547 @@
          id="tspan9797"
          x="1630.6191"
          y="-434.14471">青</tspan></text>
+  </g>
+  <g
+     id="g11911-3-7"
+     transform="translate(-5018.9308,5395.5216)">
+    <rect
+       ry="14.541"
+       y="1403.1356"
+       x="-114.32807"
+       height="300.39127"
+       width="1313.6512"
+       id="rect11781-1-4-6"
+       style="opacity:1;fill:#7e5f81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 899.92412,1409.792 289.98788,289.9878 0,-289.9878 z"
+       id="path11834-4-5-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       transform="translate(-70.351105,611.37028)"
+       id="g11844-4-8-7">
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.3258213,0,0,0.3258213,113.13958,758.6263)"
+         id="g11794-4-4-9">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="177.61938"
+           y="360.2301"
+           id="text11796-7-2-7"
+           sodipodi:linespacing="125%"
+           transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan11798-9-3-7"
+             x="177.61938"
+             y="360.2301">&lt;</tspan></text>
+        <text
+           transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"
+           sodipodi:linespacing="125%"
+           id="text11800-3-6-3"
+           y="-146.2099"
+           x="-922.22833"
+           style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-146.2099"
+             x="-922.22833"
+             id="tspan11802-5-3-6"
+             sodipodi:role="line">&lt;</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text11814-2-5-0"
+         y="970.58197"
+         x="480.05219"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:195.70484924px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="970.58197"
+           x="480.05219"
+           id="tspan11816-3-8-5"
+           sodipodi:role="line">合宜</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="504.07428"
+         y="1054.4365"
+         id="text11840-3-9-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11842-6-0-5"
+           x="504.07428"
+           y="1054.4365">A7 Home Station</tspan></text>
+    </g>
+  </g>
+  <rect
+     ry="8.4253197"
+     y="6768.4736"
+     x="2478.5586"
+     height="174.05215"
+     width="987.82971"
+     id="rect12911-1-2"
+     style="opacity:1;fill:#ba2425;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 3292.9109,6772.3304 168.0243,168.0242 0,-168.0242 z"
+     id="path12913-6-7"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text12931-1-9"
+     y="6918.46"
+     x="2727.7466"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.76501465px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan8649-7-5"
+       x="2727.7466"
+       y="6918.46">A7 Ming-Xuan Happy Home Station</tspan></text>
+  <g
+     transform="matrix(0.3057528,0,0,0.3057528,2187.9216,6302.1192)"
+     id="g12888-6-8">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       d="m 1272.4328,1620.1764 -95.1484,164.12 -95.1484,164.1201 138.6446,0.2488 25.5378,-44.0503 25.6829,-44.2998 25.5235,44.3916 25.3792,44.1419 138.6439,0.2496 -94.5576,-164.4606 -94.5575,-164.4613 z"
+       id="path12890-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path12892-1-7"
+       d="m 1697.1395,1620.8519 -95.143,164.1233 -95.143,164.1231 -69.1102,-120.1922 25.5368,-44.0508 25.6812,-44.3008 -51.206,-0.091 -50.9176,-0.089 -69.1105,-120.1912 189.7058,0.3345 189.7065,0.3341 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    <path
+       transform="matrix(0.10040325,0.02670965,0.02670965,-0.10040325,1326.7971,2086.3332)"
+       inkscape:transform-center-y="9.7896989"
+       inkscape:transform-center-x="-8.478414"
+       d="m -374.29889,1266.6392 -476.06722,-127.5619 -476.06719,-127.5618 348.50535,-348.5054 348.5054,-348.5054 127.56183,476.06723 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.8325957"
+       sodipodi:arg1="0.78539816"
+       sodipodi:r2="284.55347"
+       sodipodi:r1="569.10693"
+       sodipodi:cy="864.21979"
+       sodipodi:cx="-776.71826"
+       sodipodi:sides="3"
+       id="path12894-0-7"
+       style="opacity:1;fill:#bcd35f;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="star" />
+  </g>
+  <text
+     sodipodi:linespacing="125%"
+     id="text12896-2-2"
+     y="6866.1699"
+     x="2712.4111"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:99.28102112px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan12956-3-1"
+       x="2712.4111"
+       y="6866.1699">名軒快樂家</tspan></text>
+  <g
+     id="g9246">
+    <rect
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="opacity:1;fill:#ba2425;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12911-1"
+       width="987.82971"
+       height="174.05215"
+       x="3814.4392"
+       y="6777.1123"
+       ry="8.4253197" />
+    <path
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path12913-6"
+       d="m 4628.7917,6780.9693 168.0243,168.0242 0,-168.0242 z"
+       style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.76501465px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4105.627"
+       y="6927.0986"
+       id="text12931-1"
+       sodipodi:linespacing="125%"><tspan
+         y="6927.0986"
+         x="4105.627"
+         id="tspan8649-7"
+         sodipodi:role="line">A7 Ming-Xuan Happy Home Station</tspan></text>
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:99.28102112px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4090.292"
+       y="6874.8086"
+       id="text12896-2"
+       sodipodi:linespacing="125%"><tspan
+         y="6874.8086"
+         x="4090.292"
+         id="tspan12956-3"
+         sodipodi:role="line">名軒快樂家</tspan></text>
+    <rect
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       ry="8.4253197"
+       y="6138.1631"
+       x="3811.0828"
+       height="174.05215"
+       width="991.1864"
+       id="rect8484-6"
+       style="opacity:1;fill:#563b2f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4628.7918,6142.02 168.0243,168.0242 0,-168.0242 z"
+       id="path8486-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       sodipodi:linespacing="125%"
+       id="text8488-6"
+       y="6288.1494"
+       x="4109.8848"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.76501465px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="6288.1494"
+         x="4109.8848"
+         id="tspan8585-0"
+         sodipodi:role="line">A7 Wen-Qing Station</tspan></text>
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       sodipodi:linespacing="125%"
+       id="text8500-2"
+       y="6235.8594"
+       x="4094.5493"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:99.28102875px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="6235.8594"
+         x="4094.5493"
+         id="tspan8514-4"
+         sodipodi:role="line">遠雄文青</tspan></text>
+    <g
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="fill:#ffffff"
+       transform="matrix(0.18878679,0,0,0.18878679,3881.8827,6120.6011)"
+       id="g8575-9">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="177.61938"
+         y="360.2301"
+         id="text8577-8"
+         sodipodi:linespacing="125%"
+         transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan8579-2"
+           x="177.61938"
+           y="360.2301">&lt;</tspan></text>
+      <text
+         transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"
+         sodipodi:linespacing="125%"
+         id="text8581-8"
+         y="-146.2099"
+         x="-922.22833"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-146.2099"
+           x="-922.22833"
+           id="tspan8583-9"
+           sodipodi:role="line">&lt;</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="opacity:1;fill:#d08246;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8602-6"
+       width="990.41998"
+       height="174.05215"
+       x="3811.8491"
+       y="6351.8623"
+       ry="8.4253197" />
+    <path
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path8604-3"
+       d="m 4628.7919,6355.7193 168.0242,168.0242 0,-168.0242 z"
+       style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.76499939px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4105.1309"
+       y="6501.8486"
+       id="text8606-7"
+       sodipodi:linespacing="125%"><tspan
+         y="6501.8486"
+         x="4105.1309"
+         id="tspan9171"
+         sodipodi:role="line">A7 Rich Happy Home Station</tspan></text>
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:99.28102875px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="4089.7954"
+       y="6449.5586"
+       id="text8610-0"
+       sodipodi:linespacing="125%"><tspan
+         y="6449.5586"
+         x="4089.7954"
+         id="tspan8696-1"
+         sodipodi:role="line">皇翔歡喜城</tspan></text>
+    <g
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       id="g8614-3"
+       transform="matrix(0.18878679,0,0,0.18878679,3876.9707,6336.3321)"
+       style="fill:#ffffff">
+      <text
+         transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"
+         sodipodi:linespacing="125%"
+         id="text8616-2"
+         y="360.2301"
+         x="177.61938"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="360.2301"
+           x="177.61938"
+           id="tspan8618-3"
+           sodipodi:role="line">&lt;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-922.22833"
+         y="-146.2099"
+         id="text8620-1"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan8622-5"
+           x="-922.22833"
+           y="-146.2099">&lt;</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       ry="8.4253197"
+       y="6564.5679"
+       x="3814.4392"
+       height="174.05215"
+       width="987.82971"
+       id="rect8651-9"
+       style="opacity:1;fill:#75a27b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4628.7918,6568.4247 168.0242,168.0242 0,-168.0242 z"
+       id="path8653-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       sodipodi:linespacing="125%"
+       id="text8655-4"
+       y="6714.5542"
+       x="4110.7534"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:34.76501465px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="6714.5542"
+         x="4110.7534"
+         id="tspan8673-1"
+         sodipodi:role="line">A7 Lihpao Happy Home Station</tspan></text>
+    <text
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       sodipodi:linespacing="125%"
+       id="text8667-7"
+       y="6662.2637"
+       x="4095.4185"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:99.28102875px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="6662.2637"
+         x="4095.4185"
+         id="tspan8671-7"
+         sodipodi:role="line">麗寶快樂家</tspan></text>
+    <g
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="fill:#ffffff"
+       transform="matrix(0.18878679,0,0,0.18878679,3877.7191,6549.0375)"
+       id="g8675-7">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="177.61938"
+         y="360.2301"
+         id="text8677-5"
+         sodipodi:linespacing="125%"
+         transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan8679-9"
+           x="177.61938"
+           y="360.2301">&lt;</tspan></text>
+      <text
+         transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"
+         sodipodi:linespacing="125%"
+         id="text8681-3"
+         y="-146.2099"
+         x="-922.22833"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-146.2099"
+           x="-922.22833"
+           id="tspan8683-6"
+           sodipodi:role="line">&lt;</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       ry="8.9058609"
+       y="6989.9238"
+       x="3816.1233"
+       height="183.97928"
+       width="986.14581"
+       id="rect11781-1-4-6-7"
+       style="opacity:1;fill:#7e5f81;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       style="opacity:1;fill:#efb247;fill-opacity:1;fill-rule:nonzero;stroke:#efb247;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4618.8974,6994.0005 177.6076,177.6075 0,-177.6075 z"
+       id="path11834-4-5-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <g
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       transform="matrix(0.61246547,0,0,0.61246547,3812.6374,6504.9948)"
+       id="g11844-4-8-7-1">
+      <g
+         style="fill:#ffffff"
+         transform="matrix(0.3258213,0,0,0.3258213,113.13958,758.6263)"
+         id="g11794-4-4-9-1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="177.61938"
+           y="360.2301"
+           id="text11796-7-2-7-6"
+           sodipodi:linespacing="125%"
+           transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"><tspan
+             sodipodi:role="line"
+             id="tspan11798-9-3-7-0"
+             x="177.61938"
+             y="360.2301">&lt;</tspan></text>
+        <text
+           transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"
+           sodipodi:linespacing="125%"
+           id="text11800-3-6-3-3"
+           y="-146.2099"
+           x="-922.22833"
+           style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             y="-146.2099"
+             x="-922.22833"
+             id="tspan11802-5-3-6-4"
+             sodipodi:role="line">&lt;</tspan></text>
+      </g>
+      <text
+         sodipodi:linespacing="125%"
+         id="text11814-2-5-0-5"
+         y="970.58197"
+         x="480.05219"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:195.70484924px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="970.58197"
+           x="480.05219"
+           id="tspan11816-3-8-5-0"
+           sodipodi:role="line">合宜</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:60px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="504.07428"
+         y="1054.4365"
+         id="text11840-3-9-4-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11842-6-0-5-7"
+           x="504.07428"
+           y="1054.4365">A7 Home Station</tspan></text>
+    </g>
+    <g
+       inkscape:export-ydpi="80"
+       inkscape:export-xdpi="80"
+       inkscape:export-filename="stations.png"
+       id="g9225"
+       transform="matrix(0.18878679,0,0,0.18878679,3877.2237,6760.8971)"
+       style="fill:#ffffff">
+      <text
+         transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"
+         sodipodi:linespacing="125%"
+         id="text9227"
+         y="360.2301"
+         x="177.61938"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="360.2301"
+           x="177.61938"
+           id="tspan9229"
+           sodipodi:role="line">&lt;</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-922.22833"
+         y="-146.2099"
+         id="text9231"
+         sodipodi:linespacing="125%"
+         transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan9233"
+           x="-922.22833"
+           y="-146.2099">&lt;</tspan></text>
+    </g>
   </g>
 </svg>
