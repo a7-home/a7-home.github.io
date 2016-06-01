@@ -100,9 +100,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.98951779"
-     inkscape:cx="2641.1988"
-     inkscape:cy="1635.8565"
+     inkscape:zoom="0.4947589"
+     inkscape:cx="2737.1609"
+     inkscape:cy="1867.0107"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1318,4 +1318,10 @@
        cx="2460.8672"
        cy="1908" />
   </g>
+  <circle
+     r="18.936855"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:5.4603138;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle8389"
+     cx="2731.3169"
+     cy="1795.4452" />
 </svg>
