@@ -96,9 +96,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.98951779"
-     inkscape:cx="2519.2133"
-     inkscape:cy="2354.8154"
+     inkscape:zoom="0.24737945"
+     inkscape:cx="2715.7325"
+     inkscape:cy="2457.3793"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -667,26 +667,28 @@
        sodipodi:role="line">1211</tspan></text>
   <g
      id="g8522"
-     transform="matrix(1.1576531,0,0,1.1576531,-1733.3128,-246.6568)">
+     transform="matrix(1.1576531,0,0,1.1576531,-1733.3128,-246.6568)"
+     style="stroke:#1a1a1a">
     <circle
        cy="1908"
        cx="2460.8672"
        id="circle8402"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:18.83101845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:18.83101845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        r="65.307648" />
     <circle
        r="41.459812"
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="circle8520"
        cx="2460.8672"
        cy="1908" />
   </g>
   <g
      transform="matrix(1.1441286,0,0,1.1441286,-1708.4867,-507.85367)"
-     id="g8532">
+     id="g8532"
+     style="stroke:#1a1a1a">
     <circle
        r="65.307648"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:18.83101845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:18.83101845;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="circle8534"
        cx="2460.8672"
        cy="1908" />
@@ -694,7 +696,7 @@
        cy="1908"
        cx="2460.8672"
        id="circle8536"
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        r="41.459812" />
   </g>
   <text
