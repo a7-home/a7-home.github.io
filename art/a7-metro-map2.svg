@@ -101,8 +101,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.4947589"
-     inkscape:cx="2737.1609"
-     inkscape:cy="1867.0107"
+     inkscape:cx="1528.9486"
+     inkscape:cy="1455.6194"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -115,10 +115,10 @@
   <path
      sodipodi:nodetypes="cccccccc"
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#bb00b9;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86627909"
-     d="m 1436.7204,2407.602 -4.7185,-199.9291 -114.5735,-2.7178 173.1921,-199.5087 c -119.7048,1.3427 -239.4109,2.5786 -359.1179,3.7077 -103.2713,0.9741 -206.54339,1.8688 -309.81609,2.684 l 7.14593,421.1789 580.75806,-15.3301"
+     d="m 1436.7204,2407.602 -4.7185,-199.9291 -227.7599,1.3245 286.3785,-203.551 c -119.7048,1.3427 -239.4109,2.5786 -359.1179,3.7077 -103.2713,0.9741 -206.54339,1.8688 -309.81609,2.684 l 7.14593,421.1789 580.75806,-15.3301"
      id="path8468"
      inkscape:path-effect="#path-effect8470"
-     inkscape:original-d="m 1436.7204,2407.602 -4.7185,-199.9291 -114.5735,-2.7178 173.1921,-199.5087 -359.1179,3.7077 -309.81609,2.684 c 279.75299,558.118 -55.83438,234.6711 7.14593,421.1789 0.4227,-163.1241 690.99606,-32.0298 580.75806,-15.3301"
+     inkscape:original-d="m 1436.7204,2407.602 -4.7185,-199.9291 -227.7599,1.3245 286.3785,-203.551 -359.1179,3.7077 -309.81609,2.684 c 279.75299,558.118 -55.83438,234.6711 7.14593,421.1789 0.4227,-163.1241 690.99606,-32.0298 580.75806,-15.3301"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
@@ -531,8 +531,8 @@
      r="41.459812"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.95465565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle8500"
-     cx="1322.1162"
-     cy="2179.1392" />
+     cx="1206.9086"
+     cy="2201.3721" />
   <circle
      cy="1996.9521"
      cx="1475.7015"
@@ -985,14 +985,14 @@
   <text
      sodipodi:linespacing="125%"
      id="text8280"
-     y="2202.6238"
-     x="1119.4827"
+     y="2226.8779"
+     x="996.19031"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65.70314026px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#bb00b9;fill-opacity:0.86666667;stroke:#4d4d4d;stroke-width:1.31374371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
        id="tspan8282"
        sodipodi:role="line"
-       x="1119.4827"
-       y="2202.6238"
+       x="996.19031"
+       y="2226.8779"
        style="stroke-width:1.31374371">5057</tspan></text>
   <text
      xml:space="preserve"
