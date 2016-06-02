@@ -129,9 +129,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.64"
-     inkscape:cx="3251.3276"
-     inkscape:cy="1555.0426"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="2954.0202"
+     inkscape:cy="2779.0946"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1625,4 +1625,94 @@
        x="-593.7179"
        id="tspan11215"
        sodipodi:role="line">937</tspan></text>
+  <rect
+     style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect11217"
+     width="325.0921"
+     height="93.21273"
+     x="3460.6572"
+     y="815.62128" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85441971px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3473.689"
+     y="863.26202"
+     id="text11219"
+     sodipodi:linespacing="125%"><tspan
+       y="863.26202"
+       x="3473.689"
+       sodipodi:role="line"
+       id="tspan11227">市府 - 林口</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text11229"
+     y="894.33704"
+     x="3473.9875"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59920692px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan11233"
+       x="3473.9875"
+       y="894.33704">Taipei - Linkou Line</tspan></text>
+  <rect
+     y="815.62134"
+     x="3304.9514"
+     height="93.21273"
+     width="149.1404"
+     id="rect11235"
+     style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text11237"
+     y="881.68292"
+     x="3319.7827"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.88125134px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan11241"
+       x="3319.7827"
+       y="881.68292">1211</tspan></text>
+  <rect
+     y="935.62128"
+     x="3460.6572"
+     height="93.21273"
+     width="325.0921"
+     id="rect11319"
+     style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text11321"
+     y="983.26202"
+     x="3473.689"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499763px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan11363">板橋 - 林口</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="3473.9875"
+     y="1014.337"
+     id="text11325"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan11365">Bannan - Linkou Line</tspan></text>
+  <rect
+     style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect11331"
+     width="149.1404"
+     height="93.21273"
+     x="3304.9514"
+     y="935.62134" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92525864px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3330.8677"
+     y="1003.9363"
+     id="text11333"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan11349"
+       x="3330.8677"
+       y="1003.9363">948</tspan></text>
 </svg>
