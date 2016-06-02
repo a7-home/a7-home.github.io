@@ -130,8 +130,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.64"
-     inkscape:cx="1697.3735"
-     inkscape:cy="2818.2614"
+     inkscape:cx="3350.5615"
+     inkscape:cy="2819.2062"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1585,26 +1585,22 @@
      y="815.62128" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85441971px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499763px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      x="3473.689"
      y="863.26202"
      id="text11219"
      sodipodi:linespacing="125%"><tspan
-       y="863.26202"
-       x="3473.689"
        sodipodi:role="line"
-       id="tspan11227">市府 - 林口</tspan></text>
+       id="tspan11434">市府林口線</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text11229"
      y="894.33704"
      x="3473.9875"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59920692px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      xml:space="preserve"><tspan
        sodipodi:role="line"
-       id="tspan11233"
-       x="3473.9875"
-       y="894.33704">Taipei - Linkou Line</tspan></text>
+       id="tspan11438">Taipei-Linkou Line</tspan></text>
   <g
      id="g11384">
     <rect
@@ -1641,7 +1637,7 @@
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499763px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
      xml:space="preserve"><tspan
        sodipodi:role="line"
-       id="tspan11363">板橋 - 林口</tspan></text>
+       id="tspan11436">板橋林口線</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
@@ -1650,7 +1646,7 @@
      id="text11325"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       id="tspan11365">Bannan - Linkou Line</tspan></text>
+       id="tspan11440">Bannan-Linkou Line</tspan></text>
   <g
      id="g11397">
     <rect
