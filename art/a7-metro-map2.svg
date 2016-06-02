@@ -121,9 +121,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.32"
-     inkscape:cx="2702.6506"
-     inkscape:cy="1317.1156"
+     inkscape:zoom="0.64"
+     inkscape:cx="1454.6426"
+     inkscape:cy="1215.9195"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -151,10 +151,10 @@
      y="0" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#e0995e;stroke-width:27.94352722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 1308.8409,2410.2279 326.0131,35.5428 39.6097,7.1377"
+     d="m 1305.7159,2394.6029 354.1381,-1.176 0.5472,62.6065"
      id="path8404"
      inkscape:path-effect="#path-effect8406"
-     inkscape:original-d="m 1308.8409,2410.2279 326.0131,35.5428 39.6097,7.1377"
+     inkscape:original-d="m 1305.7159,2394.6029 354.1381,-1.176 0.5472,62.6065"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
   <path
@@ -412,7 +412,7 @@
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:9.79362392;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      r="33.96516" />
   <circle
-     cy="2410.6353"
+     cy="2400.6353"
      cx="1285.7913"
      id="circle8406"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.95465565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -1517,7 +1517,7 @@
      style="fill:#232323" />
   <g
      id="g8353"
-     transform="matrix(1.4793074,0,0,1.4793074,309.47369,-1801.8945)">
+     transform="matrix(1.4793074,0,0,1.4793074,309.47369,-1811.8945)">
     <circle
        r="22.867115"
        cy="2784.1216"
@@ -1533,25 +1533,25 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:70.02882385px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0a0905;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="1252.2173"
-     y="2540.3091"
+     x="1245.9673"
+     y="2519.3716"
      id="text8081"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8083"
-       x="1252.2173"
-       y="2540.3091">A7</tspan></text>
+       x="1245.9673"
+       y="2519.3716">A7</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.33703995px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5400d4;fill-opacity:0.86666667;stroke:#4d4d4d;stroke-width:1.26643801;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="1225.9812"
-     y="2612.7771"
+     x="1219.7312"
+     y="2601.2146"
      id="text8353"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8355"
-       x="1225.9812"
-       y="2612.7771"
+       x="1219.7312"
+       y="2601.2146"
        style="stroke-width:1.26643801">1211</tspan></text>
   <g
      id="g8358"
