@@ -121,9 +121,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1663.3971"
-     inkscape:cy="1165.0738"
+     inkscape:zoom="0.32"
+     inkscape:cx="2702.6506"
+     inkscape:cy="1317.1156"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1555,7 +1555,7 @@
        style="stroke-width:1.26643801">1211</tspan></text>
   <g
      id="g8358"
-     transform="matrix(1.2212351,0,0,1.2212351,1376.623,3693.8645)">
+     transform="matrix(1.2212351,0,0,1.2212351,1426.623,3693.8645)">
     <circle
        id="circle8360"
        r="28.275999"
@@ -1573,12 +1573,12 @@
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.06000137px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="1476.0994"
+     x="1524.0994"
      y="3748.8752"
      id="text8376"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       id="tspan11195"
-       x="1476.0994"
-       y="3748.8752">除捷運部份由</tspan></text>
+       id="tspan11197"
+       x="1524.0994"
+       y="3748.8752">捷運部份由</tspan></text>
 </svg>
