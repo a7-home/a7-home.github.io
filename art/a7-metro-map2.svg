@@ -129,9 +129,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1805.9956"
-     inkscape:cy="1421.4249"
+     inkscape:zoom="0.64"
+     inkscape:cx="3251.3276"
+     inkscape:cy="1555.0426"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -197,6 +197,18 @@
      id="path8305"
      d="m 1336.4294,1892.1719 289.6206,-277.9782 413.7038,-14.4467 360.4771,-161.6527 693.6754,7.4137 -4.8247,363.7591 282.4902,-0.6638"
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0066ff;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.30856323px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a57812;fill-opacity:1;stroke:none;stroke-width:0.72600371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     x="2153.9954"
+     y="2263.8027"
+     id="text8253"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8257"
+       x="2153.9954"
+       y="2263.8027"
+       style="fill:#a57812;fill-opacity:1;stroke-width:0.72600371;stroke:none;">三井接駁</tspan></text>
   <path
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00abed;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86627909"
      d="m 2168.4686,2791.2674 62.8845,-127.1983 105.7604,-107.1896 -59.9789,-192.7699 -6.23,-9.8388 c -1.2926,-3.8108 -2.584,-7.622 -3.874,-11.4336 -28.6904,-84.7706 -56.7412,-169.7577 -84.1492,-254.9516 l -2.3452,-355.2655 -86.7673,2.9702 -518.8837,2.1379 -240.6998,247.8335 -0.9807,-356.2715"
@@ -330,14 +342,14 @@
   <text
      sodipodi:linespacing="125%"
      id="text8365"
-     y="3429.5518"
-     x="1462.8735"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.69178391px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5400d4;fill-opacity:0.86666667;stroke:none;stroke-width:0.93361247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     y="3434.0981"
+     x="1473.5609"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.69178391px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5400d4;fill-opacity:0.86666667;stroke:none;stroke-width:0.93361247;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"
      transform="matrix(0.73493517,-0.67813737,0.67813737,0.73493517,0,0)"><tspan
-       style="stroke-width:0.93361247;stroke:none;"
-       y="3429.5518"
-       x="1462.8735"
+       style="stroke:none;stroke-width:0.93361247"
+       y="3434.0981"
+       x="1473.5609"
        id="tspan8367"
        sodipodi:role="line">1211</tspan></text>
   <text
@@ -355,8 +367,8 @@
        style="stroke-width:0.73343515;stroke:none;">1211</tspan></text>
   <circle
      r="33.96516"
-     cy="2786.3806"
-     cx="2160.2061"
+     cy="2785.2759"
+     cx="2174.5691"
      id="circle8384"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:9.79362392;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <circle
@@ -525,13 +537,13 @@
   <text
      sodipodi:linespacing="125%"
      id="text8161"
-     y="2596.208"
-     x="2381.8979"
-     style="font-style:normal;font-weight:normal;font-size:53.14425659px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00abee;fill-opacity:0.86666667;stroke:none;stroke-width:1.06288505;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     y="2639.2974"
+     x="2384.1077"
+     style="font-style:normal;font-weight:normal;font-size:53.14425659px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00abee;fill-opacity:0.86666667;stroke:none;stroke-width:1.06288505;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
-       style="stroke-width:1.06288505;stroke:none;"
-       y="2596.208"
-       x="2381.8979"
+       style="stroke:none;stroke-width:1.06288505"
+       y="2639.2974"
+       x="2384.1077"
        id="tspan8163"
        sodipodi:role="line">920</tspan></text>
   <text
@@ -656,52 +668,40 @@
      r="33.96516" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.30856323px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a57812;fill-opacity:1;stroke:none;stroke-width:0.72600371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-     x="2153.9954"
-     y="2263.8027"
-     id="text8253"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan8257"
-       x="2153.9954"
-       y="2263.8027"
-       style="fill:#a57812;fill-opacity:1;stroke-width:0.72600371;stroke:none;">三井接駁</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-     x="2565.063"
-     y="1864.7755"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.69923019px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="2565.356"
+     y="1861.1969"
      id="text8267"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8269"
-       x="2565.063"
-       y="1864.7755"
-       style="fill:#22c5c5;fill-opacity:1;stroke-width:0.81869733;stroke:none;">三井接駁</tspan></text>
+       x="2565.356"
+       y="1861.1969"
+       style="fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733">三井接駁</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text8271"
-     y="1588.3107"
-     x="2276.4143"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     y="1579.4718"
+     x="2289.6726"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
-       style="fill:#22c5c5;fill-opacity:1;stroke-width:0.81869733;stroke:none;"
-       y="1588.3107"
-       x="2276.4143"
+       style="fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733"
+       y="1579.4718"
+       x="2289.6726"
        id="tspan8273"
        sodipodi:role="line">三井接駁</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-     x="2376.1118"
-     y="2643.6084"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="2350.7002"
+     y="2686.6978"
      id="text8275"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8277"
-       x="2376.1118"
-       y="2643.6084"
-       style="fill:#ff9046;fill-opacity:1;stroke-width:0.81869733;stroke:none;">三井接駁</tspan></text>
+       x="2350.7002"
+       y="2686.6978"
+       style="fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:0.81869733">三井接駁</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:45.30410385px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00abee;fill-opacity:0.86666667;stroke:none;stroke-width:0.90608197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
@@ -1013,14 +1013,14 @@
      id="text8384"
      y="3536.5989"
      x="522.96729"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.08442688px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2060c2;fill-opacity:1;stroke:#4d4d4d;stroke-width:0.88147438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44.08442688px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2060c2;fill-opacity:1;stroke:none;stroke-width:0.88147438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
      xml:space="preserve"
      transform="matrix(0.69938185,-0.71474823,0.71474823,0.69938185,0,0)"><tspan
        y="3536.5989"
        x="522.96729"
        id="tspan8386"
        sodipodi:role="line"
-       style="stroke-width:0.88147438">2001</tspan></text>
+       style="stroke-width:0.88147438;stroke:none;">2001</tspan></text>
   <g
      transform="matrix(0.9824971,0,0,0.9824971,1051.442,-294.85895)"
      id="g8434">
