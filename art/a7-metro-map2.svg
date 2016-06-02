@@ -130,8 +130,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90509668"
-     inkscape:cx="3246.6268"
-     inkscape:cy="2790.2175"
+     inkscape:cx="2381.2075"
+     inkscape:cy="1647.2013"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -199,7 +199,7 @@
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#0066ff;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.30856323px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a57812;fill-opacity:1;stroke:none;stroke-width:0.72600371;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749977px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#a57812;fill-opacity:1;stroke:#a57812;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
      x="2153.9954"
      y="2263.8027"
      id="text8253"
@@ -208,7 +208,7 @@
        id="tspan8257"
        x="2153.9954"
        y="2263.8027"
-       style="fill:#a57812;fill-opacity:1;stroke-width:0.72600371;stroke:none;">三井接駁</tspan></text>
+       style="fill:#a57812;fill-opacity:1;stroke-width:1;stroke:#a57812;-inkscape-font-specification:'cwTeXYen, Medium';font-family:cwTeXYen;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40.67749977px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-linejoin:round;">三井接駁</tspan></text>
   <path
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#00abed;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86627909"
      d="m 2168.4686,2791.2674 62.8845,-127.1983 105.7604,-107.1896 -59.9789,-192.7699 -6.23,-9.8388 c -1.2926,-3.8108 -2.584,-7.622 -3.874,-11.4336 -28.6904,-84.7706 -56.7412,-169.7577 -84.1492,-254.9516 l -2.3452,-355.2655 -86.7673,2.9702 -518.8837,2.1379 -240.6998,247.8335 -0.9807,-356.2715"
@@ -616,7 +616,7 @@
      r="33.96516" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36.69923019px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749977px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:#22c5c5;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
      x="2565.356"
      y="1861.1969"
      id="text8267"
@@ -625,31 +625,7 @@
        id="tspan8269"
        x="2565.356"
        y="1861.1969"
-       style="fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733">三井接駁</tspan></text>
-  <text
-     sodipodi:linespacing="125%"
-     id="text8271"
-     y="1579.4718"
-     x="2289.6726"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       style="fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:0.81869733"
-       y="1579.4718"
-       x="2289.6726"
-       id="tspan8273"
-       sodipodi:role="line">三井接駁</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.94316483px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="2353.9634"
-     y="2685.0107"
-     id="text8275"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan8277"
-       x="2353.9634"
-       y="2685.0107"
-       style="fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:0.81869733">三井接駁</tspan></text>
+       style="fill:#22c5c5;fill-opacity:1;stroke:#22c5c5;stroke-width:1;-inkscape-font-specification:'cwTeXYen, Medium';font-family:cwTeXYen;font-weight:500;font-style:normal;font-stretch:normal;font-variant:normal;font-size:40.67749977px;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;">三井接駁</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:45.30410385px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#00abee;fill-opacity:0.86666667;stroke:none;stroke-width:0.90608197;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
@@ -665,48 +641,51 @@
   <text
      sodipodi:linespacing="125%"
      id="text8283"
-     y="3012.3408"
-     x="2441.855"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.94431686px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:0.81869733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     y="3013.9033"
+     x="2458.2612"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749786px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:#ff9046;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
-       style="fill:#ff9046;fill-opacity:1;stroke-width:0.81869733;stroke:none;"
-       y="3012.3408"
-       x="2441.855"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749786px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:#ff9046;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="3013.9033"
+       x="2458.2612"
        id="tspan8285"
        sodipodi:role="line">三井接駁</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text8287"
-     y="1148.9639"
-     x="1143.1975"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.85950851px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:none;stroke-width:1.10707772;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     y="1148.1136"
+     x="1139.7565"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:47.02170563px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:#22c5c5;stroke-width:1.15596354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
        sodipodi:role="line"
        id="tspan8303"
-       x="1143.1975"
-       y="1148.9639">蘆洲三井接駁</tspan></text>
+       x="1139.7565"
+       y="1148.1136"
+       style="stroke-width:1.15596354">蘆洲三井接駁</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.85950851px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a57812;fill-opacity:1;stroke:none;stroke-width:1.10707772;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
-     x="1144.379"
-     y="1086.5032"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45.52709198px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a57812;fill-opacity:1;stroke:#a57812;stroke-width:1.11922061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="1139.5211"
+     y="1080.386"
      id="text8291"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
        id="tspan8295"
-       x="1144.379"
-       y="1086.5032">新莊三井接駁</tspan></text>
+       x="1139.5211"
+       y="1080.386"
+       style="stroke-width:1.11922061">新莊三井接駁</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text8297"
-     y="1023.1019"
-     x="1142.1147"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.85950851px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:none;stroke-width:1.10707772;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+     y="1015.9598"
+     x="1138.6204"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45.52709198px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:#ff9046;stroke-width:1.11922061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      xml:space="preserve"><tspan
        sodipodi:role="line"
        id="tspan8301"
-       x="1142.1147"
-       y="1023.1019">中和三井接駁</tspan></text>
+       x="1138.6204"
+       y="1015.9598"
+       style="stroke-width:1.11922061">中和三井接駁</tspan></text>
   <g
      id="g8317">
     <circle
@@ -1769,4 +1748,28 @@
        id="tspan11476"
        x="1518.1569"
        y="1190.4269">Linkou Market</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749786px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:#ff9046;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="2352.7925"
+     y="2681.0908"
+     id="text11480"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan11482"
+       x="2352.7925"
+       y="2681.0908"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749786px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff9046;fill-opacity:1;stroke:#ff9046;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">三井接駁</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text11484"
+     y="1577.2494"
+     x="2302.4006"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749786px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:#22c5c5;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40.67749786px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#22c5c5;fill-opacity:1;stroke:#22c5c5;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       y="1577.2494"
+       x="2302.4006"
+       id="tspan11486"
+       sodipodi:role="line">三井接駁</tspan></text>
 </svg>
