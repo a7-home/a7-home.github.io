@@ -129,9 +129,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="1956.1922"
-     inkscape:cy="1166.7989"
+     inkscape:zoom="1.28"
+     inkscape:cx="1700.3533"
+     inkscape:cy="2483.082"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -222,7 +222,7 @@
      id="text8087"
      y="1984.683"
      x="986.20294"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.95362091px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.85500145px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      xml:space="preserve"><tspan
        sodipodi:role="line"
        id="tspan8492"
@@ -230,7 +230,7 @@
        y="1984.683">林口長庚</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.71966171px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.85500145px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      x="1215.9808"
      y="1529.7543"
      id="text8137"
@@ -433,7 +433,7 @@
      id="text8506"
      y="1159.7068"
      x="1510.2551"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.72005463px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:56.85500145px;line-height:125%;font-family:cwTeXYen;-inkscape-font-specification:'cwTeXYen, Medium';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      xml:space="preserve"><tspan
        sodipodi:role="line"
        id="tspan8510"
@@ -1447,7 +1447,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:70.02882385px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0a0905;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="font-style:normal;font-weight:500;font-size:56.85500145px;line-height:125%;font-family:cwTeXYen;letter-spacing:0px;word-spacing:0px;fill:#0a0905;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'cwTeXYen, Medium';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;"
      x="1245.9673"
      y="2519.3716"
      id="text8081"
@@ -1736,4 +1736,37 @@
          id="tspan11432"
          sodipodi:role="line">948</tspan></text>
   </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:28.51086235px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="925.0943"
+     y="2016.9894"
+     id="text11462"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan11464"
+       x="925.0943"
+       y="2016.9894">Linkou Chang-Gung</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text11466"
+     y="1562.3019"
+     x="1221.9694"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.51124954px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan11470"
+       x="1221.9694"
+       y="1562.3019">Mitsui</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text11472"
+     y="1190.4269"
+     x="1518.1569"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.51124954px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan11476"
+       x="1518.1569"
+       y="1190.4269">Linkou Market</tspan></text>
 </svg>
