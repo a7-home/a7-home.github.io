@@ -121,9 +121,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="1884.6646"
-     inkscape:cy="-62.416645"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="1663.3971"
+     inkscape:cy="1165.0738"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1469,13 +1469,15 @@
      cy="2450.2219" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.03125px;line-height:125%;font-family:Passion;-inkscape-font-specification:'Passion, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#e0995e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="1609.1091"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:62.03125px;line-height:125%;font-family:Passion;-inkscape-font-specification:'Passion, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#e0995e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="1601.3751"
      y="2552.7026"
      id="text8560"
      sodipodi:linespacing="125%"><tspan
        sodipodi:role="line"
-       id="tspan8570">$150+</tspan></text>
+       id="tspan8570"
+       x="1601.3751"
+       y="2552.7026">$150+</tspan></text>
   <g
      id="g8566"
      transform="translate(-4.5476696,-0.50529662)">
