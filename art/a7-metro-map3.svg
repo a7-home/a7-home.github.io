@@ -233,9 +233,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.64"
-     inkscape:cx="1487.9508"
-     inkscape:cy="1689.8799"
+     inkscape:zoom="0.16"
+     inkscape:cx="2414.3142"
+     inkscape:cy="2470.9926"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -8331,23 +8331,6 @@
          id="tspan20884">頂埔</tspan>
     </text>
   </g>
-  <g
-     id="g8358"
-     transform="matrix(2.3951428,0,0,2.3951428,4112.1713,621.75706)">
-    <circle
-       id="circle8360"
-       r="28.275999"
-       cy="28.806"
-       cx="37.637001"
-       style="fill:#ffffff" />
-    <g
-       id="g8362">
-      <path
-         id="path8364"
-         d="m 37.443,-3.5 c 8.988,0 16.57,3.085 22.742,9.257 6.208,6.21 9.315,13.791 9.315,22.743 0,8.991 -3.049,16.476 -9.145,22.456 C 53.879,57.319 46.242,60.5 37.443,60.5 28.794,60.5 21.29,57.356 14.929,51.07 8.644,44.784 5.5,37.262 5.5,28.5 5.5,19.739 8.644,12.158 14.929,5.758 21.101,-0.415 28.604,-3.5 37.443,-3.5 Z m 0.114,5.772 c -7.276,0 -13.428,2.553 -18.457,7.657 -5.22,5.334 -7.829,11.525 -7.829,18.572 0,7.086 2.59,13.22 7.77,18.398 5.181,5.182 11.352,7.771 18.514,7.771 7.123,0 13.334,-2.607 18.629,-7.828 5.029,-4.838 7.543,-10.952 7.543,-18.343 0,-7.276 -2.553,-13.465 -7.656,-18.571 C 50.967,4.824 44.795,2.272 37.557,2.272 Z m 8.572,18.285 0,13.085 -3.656,0 0,15.542 -9.944,0 0,-15.541 -3.656,0 0,-13.086 c 0,-0.572 0.2,-1.057 0.599,-1.457 0.401,-0.399 0.887,-0.6 1.457,-0.6 l 13.144,0 c 0.533,0 1.01,0.2 1.428,0.6 0.417,0.4 0.628,0.886 0.628,1.457 z M 33.042,12.329 c 0,-3.008 1.485,-4.514 4.458,-4.514 2.973,0 4.457,1.504 4.457,4.514 0,2.971 -1.486,4.457 -4.457,4.457 -2.971,0 -4.458,-1.486 -4.458,-4.457 z"
-         inkscape:connector-curvature="0" />
-    </g>
-  </g>
   <path
      inkscape:connector-curvature="0"
      inkscape:original-d="m 618.30817,2424.3635 2.9423,-21.3045 -7.4782,-8.2731 3.8669,-7.8658 c 0,0 108.6425,-2792.61659 -0.017,-395.696 -2.6669,-84.5465 -27.90708,-301.1849 -1.2013,-282.9271 l -2.1649,-47.0188 c 0,0 -3.531,-45.4947 -5.51858,-28.795"
@@ -11772,112 +11755,6 @@
        y="1554.8212"
        style="stroke:none;stroke-width:1.04569864;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.81395347">937</tspan></text>
   <g
-     id="g24260"
-     transform="translate(334.86959,-219.88995)">
-    <rect
-       y="815.39917"
-       x="3365.0132"
-       height="93.21273"
-       width="325.0921"
-       id="rect11217"
-       style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text11219"
-       y="863.03992"
-       x="3378.0449"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan11434"
-         sodipodi:role="line"
-         x="3378.0449"
-         y="863.03992">市府林口線</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3378.3435"
-       y="894.11493"
-       id="text11229"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan11438"
-         sodipodi:role="line"
-         x="3378.3435"
-         y="894.11493">Taipei-Linkou Line</tspan></text>
-    <g
-       transform="translate(-95.64405,-0.22208699)"
-       id="g11384">
-      <rect
-         y="815.62134"
-         x="3304.9514"
-         height="93.21273"
-         width="149.1404"
-         id="rect11235"
-         style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text11237"
-         y="881.68292"
-         x="3319.7827"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.88125229px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           sodipodi:role="line"
-           id="tspan11241"
-           x="3319.7827"
-           y="881.68292">1211</tspan></text>
-    </g>
-    <rect
-       style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
-       id="rect11319"
-       width="325.0921"
-       height="93.21273"
-       x="3365.0132"
-       y="935.39917" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="3378.0449"
-       y="983.03992"
-       id="text11321"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan11436"
-         sodipodi:role="line"
-         x="3378.0449"
-         y="983.03992">板橋林口線</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text11325"
-       y="1014.1149"
-       x="3378.3435"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan11478"
-         sodipodi:role="line"
-         x="3378.3435"
-         y="1014.1149">Banqiao-Linkou Line</tspan></text>
-    <g
-       transform="translate(-95.64405,-0.22208699)"
-       id="g11397">
-      <rect
-         style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
-         id="rect11331"
-         width="149.1404"
-         height="93.21273"
-         x="3304.9514"
-         y="935.62134" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92525864px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="3330.8677"
-         y="1003.9363"
-         id="text11333"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan11349"
-           x="3330.8677"
-           y="1003.9363">948</tspan></text>
-    </g>
-  </g>
-  <g
      id="g22753"
      transform="translate(53.4895,37.846351)">
     <g
@@ -12040,4 +11917,396 @@
      cx="2399.6091"
      id="circle25458"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.17180634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <g
+     id="g8358"
+     transform="matrix(1.7847912,0,0,1.7847912,4078.8562,3359.5717)">
+    <circle
+       id="circle8360"
+       r="28.275999"
+       cy="28.806"
+       cx="37.637001"
+       style="fill:#ffffff" />
+    <g
+       id="g8362">
+      <path
+         id="path8364"
+         d="m 37.443,-3.5 c 8.988,0 16.57,3.085 22.742,9.257 6.208,6.21 9.315,13.791 9.315,22.743 0,8.991 -3.049,16.476 -9.145,22.456 C 53.879,57.319 46.242,60.5 37.443,60.5 28.794,60.5 21.29,57.356 14.929,51.07 8.644,44.784 5.5,37.262 5.5,28.5 5.5,19.739 8.644,12.158 14.929,5.758 21.101,-0.415 28.604,-3.5 37.443,-3.5 Z m 0.114,5.772 c -7.276,0 -13.428,2.553 -18.457,7.657 -5.22,5.334 -7.829,11.525 -7.829,18.572 0,7.086 2.59,13.22 7.77,18.398 5.181,5.182 11.352,7.771 18.514,7.771 7.123,0 13.334,-2.607 18.629,-7.828 5.029,-4.838 7.543,-10.952 7.543,-18.343 0,-7.276 -2.553,-13.465 -7.656,-18.571 C 50.967,4.824 44.795,2.272 37.557,2.272 Z m 8.572,18.285 0,13.085 -3.656,0 0,15.542 -9.944,0 0,-15.541 -3.656,0 0,-13.086 c 0,-0.572 0.2,-1.057 0.599,-1.457 0.401,-0.399 0.887,-0.6 1.457,-0.6 l 13.144,0 c 0.533,0 1.01,0.2 1.428,0.6 0.417,0.4 0.628,0.886 0.628,1.457 z M 33.042,12.329 c 0,-3.008 1.485,-4.514 4.458,-4.514 2.973,0 4.457,1.504 4.457,4.514 0,2.971 -1.486,4.457 -4.457,4.457 -2.971,0 -4.458,-1.486 -4.458,-4.457 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <rect
+     style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect11217"
+     width="325.0921"
+     height="93.21273"
+     x="3929.6924"
+     y="964.32086" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3942.7241"
+     y="1011.9616"
+     id="text11219"
+     sodipodi:linespacing="125%"><tspan
+       y="1011.9616"
+       x="3942.7241"
+       sodipodi:role="line"
+       id="tspan11434">市府林口線</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text11229"
+     y="1043.0366"
+     x="3943.0227"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="1043.0366"
+       x="3943.0227"
+       sodipodi:role="line"
+       id="tspan11438">Taipei-Linkou Line</tspan></text>
+  <g
+     id="g11384"
+     transform="translate(463.03524,148.69961)">
+    <rect
+       style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+       id="rect11235"
+       width="149.1404"
+       height="93.21273"
+       x="3304.9514"
+       y="815.62134" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.88125229px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3319.7827"
+       y="881.68292"
+       id="text11237"
+       sodipodi:linespacing="125%"><tspan
+         y="881.68292"
+         x="3319.7827"
+         id="tspan11241"
+         sodipodi:role="line">1211</tspan></text>
+  </g>
+  <rect
+     y="1082.3208"
+     x="3929.6924"
+     height="93.21273"
+     width="325.0921"
+     id="rect11319"
+     style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text11321"
+     y="1129.9617"
+     x="3942.7241"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="1129.9617"
+       x="3942.7241"
+       sodipodi:role="line"
+       id="tspan11436">板橋林口線</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3943.0227"
+     y="1161.0366"
+     id="text11325"
+     sodipodi:linespacing="125%"><tspan
+       y="1161.0366"
+       x="3943.0227"
+       sodipodi:role="line"
+       id="tspan11478">Banqiao-Linkou Line</tspan></text>
+  <g
+     id="g11397"
+     transform="translate(463.03524,146.69961)">
+    <rect
+       y="935.62134"
+       x="3304.9514"
+       height="93.21273"
+       width="149.1404"
+       id="rect11331"
+       style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text11333"
+       y="1003.9363"
+       x="3330.8677"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92525864px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="1003.9363"
+         x="3330.8677"
+         id="tspan11349"
+         sodipodi:role="line">948</tspan></text>
+  </g>
+  <g
+     id="g25460"
+     transform="matrix(2.3129909,0,0,2.3129909,-4979.4333,3765.7578)">
+    <rect
+       style="fill:#d12d33"
+       width="29.969549"
+       height="30.094549"
+       x="3816.9907"
+       y="-1369.1357"
+       rx="0"
+       id="rect25462" />
+    <text
+       style="font-size:28px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3824.3054"
+       y="-1343.7277"
+       text-align="start"
+       word-spacing="0"
+       line-height="125%"
+       letter-spacing="0"
+       font-size="28"
+       writing-mode="lr"
+       id="text25464">
+      <tspan
+         style="line-height:125%;text-align:start"
+         x="3824.3054"
+         y="-1343.7277"
+         text-align="start"
+         line-height="125%"
+         id="tspan25466">2</tspan>
+    </text>
+    <rect
+       style="fill:#d12d33"
+       width="139.9848"
+       height="30.047279"
+       x="3851.9907"
+       y="-1369.1357"
+       rx="0"
+       id="rect25468" />
+    <text
+       style="font-size:22px;line-height:125%;font-family:'Noto Sans CJK TC Regular';letter-spacing:0;word-spacing:0;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3858.385"
+       y="-1345.7207"
+       word-spacing="0"
+       line-height="125%"
+       letter-spacing="0"
+       font-size="22"
+       id="text25470">
+      <tspan
+         style="font-weight:bold"
+         x="3858.385"
+         y="-1345.7207"
+         font-weight="bold"
+         id="tspan25472">淡水信義線</tspan>
+    </text>
+    <rect
+       style="fill:#007c59"
+       width="29.969549"
+       height="30.094549"
+       x="3816.9829"
+       y="-1329.1122"
+       rx="0"
+       id="rect25474" />
+    <text
+       style="font-weight:normal;font-size:28px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3824.2979"
+       y="-1303.704"
+       text-align="start"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="28"
+       writing-mode="lr"
+       id="text25476">
+      <tspan
+         style="line-height:125%;text-align:start"
+         x="3824.2979"
+         y="-1303.704"
+         text-align="start"
+         line-height="125%"
+         id="tspan25478">3</tspan>
+    </text>
+    <rect
+       style="fill:#007c59"
+       width="139.9848"
+       height="30.047279"
+       x="3851.9907"
+       y="-1329.1122"
+       rx="0"
+       id="rect25480" />
+    <text
+       style="font-weight:normal;font-size:22px;line-height:125%;font-family:'Noto Sans CJK TC Regular';letter-spacing:0;word-spacing:0;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3858.4731"
+       y="-1305.6667"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="22"
+       id="text25482">
+      <tspan
+         style="font-weight:bold"
+         x="3858.4731"
+         y="-1305.6667"
+         font-weight="bold"
+         id="tspan25484">松山新店線</tspan>
+    </text>
+    <rect
+       style="fill:#aa753f"
+       width="29.969549"
+       height="30.094549"
+       x="3816.9829"
+       y="-1409.1122"
+       rx="0"
+       id="rect25486" />
+    <text
+       style="font-weight:normal;font-size:28px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3824.2979"
+       y="-1383.704"
+       text-align="start"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="28"
+       writing-mode="lr"
+       id="text25488">
+      <tspan
+         style="line-height:125%;text-align:start"
+         x="3824.2979"
+         y="-1383.704"
+         text-align="start"
+         line-height="125%"
+         id="tspan25490">1</tspan>
+    </text>
+    <rect
+       style="fill:#aa753f"
+       width="139.9848"
+       height="30.047279"
+       x="3851.9907"
+       y="-1409.1122"
+       rx="0"
+       id="rect25492" />
+    <text
+       style="font-weight:normal;font-size:22px;line-height:125%;font-family:'Noto Sans CJK TC Regular';letter-spacing:0;word-spacing:0;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3858.385"
+       y="-1385.6736"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="22"
+       id="text25494">
+      <tspan
+         style="font-weight:bold"
+         x="3858.385"
+         y="-1385.6736"
+         font-weight="bold"
+         id="tspan25496">文湖線</tspan>
+    </text>
+    <rect
+       style="fill:#fca311"
+       width="29.969549"
+       height="30.094549"
+       x="3816.9907"
+       y="-1289.1357"
+       rx="0"
+       id="rect25498" />
+    <text
+       style="font-weight:normal;font-size:28px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;fill:#000000"
+       sodipodi:linespacing="125%"
+       x="3824.3054"
+       y="-1263.7277"
+       text-align="start"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="28"
+       writing-mode="lr"
+       id="text25500">
+      <tspan
+         style="line-height:125%;text-align:start"
+         x="3824.3054"
+         y="-1263.7277"
+         text-align="start"
+         line-height="125%"
+         id="tspan25502">4</tspan>
+    </text>
+    <rect
+       style="fill:#fca311"
+       width="139.9848"
+       height="30.047279"
+       x="3851.9907"
+       y="-1289.1357"
+       rx="0"
+       id="rect25504" />
+    <text
+       style="font-weight:normal;font-size:22px;line-height:125%;font-family:'Noto Sans CJK TC Regular';letter-spacing:0;word-spacing:0;fill:#000000"
+       sodipodi:linespacing="125%"
+       x="3857.0432"
+       y="-1265.6667"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="22"
+       id="text25506">
+      <tspan
+         style="font-weight:bold"
+         x="3857.0432"
+         y="-1265.6667"
+         font-weight="bold"
+         id="tspan25508">中和新蘆線</tspan>
+    </text>
+    <rect
+       style="fill:#0072c6"
+       width="29.969549"
+       height="30.094549"
+       x="3816.9907"
+       y="-1249.1357"
+       rx="0"
+       id="rect25510" />
+    <text
+       style="font-weight:normal;font-size:28px;line-height:125%;font-family:Sans;text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;fill:#ffffff"
+       sodipodi:linespacing="125%"
+       x="3824.3054"
+       y="-1223.7277"
+       text-align="start"
+       word-spacing="0"
+       line-height="125%"
+       font-weight="normal"
+       letter-spacing="0"
+       font-size="28"
+       writing-mode="lr"
+       id="text25512">
+      <tspan
+         style="line-height:125%;text-align:start"
+         x="3824.3054"
+         y="-1223.7277"
+         text-align="start"
+         line-height="125%"
+         id="tspan25514">5</tspan>
+    </text>
+    <rect
+       style="fill:#0072c6"
+       width="139.9848"
+       height="30.047279"
+       x="3851.9907"
+       y="-1249.1357"
+       rx="0"
+       id="rect25516" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text25518"
+       font-size="22"
+       y="-1225.7177"
+       x="3858.5171"
+       style="font-weight:normal;font-size:22px;line-height:125%;font-family:'Noto Sans CJK TC Regular';letter-spacing:0;word-spacing:0;fill:#ffffff">
+      <tspan
+         id="tspan25520"
+         font-weight="bold"
+         y="-1225.7177"
+         x="3858.5171"
+         style="font-weight:bold">板南線</tspan>
+    </text>
+  </g>
 </svg>
