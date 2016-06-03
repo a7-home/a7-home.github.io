@@ -265,9 +265,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="2500.2233"
-     inkscape:cy="1016.7632"
+     inkscape:zoom="0.16"
+     inkscape:cx="2445.3887"
+     inkscape:cy="2493.4479"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -11946,33 +11946,33 @@
      id="rect11217"
      width="325.0921"
      height="93.21273"
-     x="3718.8254"
-     y="624.88531" />
+     x="3241.5283"
+     y="172.34546" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="3731.8572"
-     y="672.52606"
+     x="3254.5601"
+     y="219.98622"
      id="text11219"
      sodipodi:linespacing="125%"><tspan
-       y="672.52606"
-       x="3731.8572"
+       y="219.98622"
+       x="3254.5601"
        sodipodi:role="line"
        id="tspan11434">市府林口線</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text11229"
-     y="703.60114"
-     x="3732.1558"
+     y="251.06128"
+     x="3254.8586"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"><tspan
-       y="703.60114"
-       x="3732.1558"
+       y="251.06128"
+       x="3254.8586"
        sodipodi:role="line"
        id="tspan11438">Taipei-Linkou Line</tspan></text>
   <g
      id="g11384"
-     transform="translate(252.16822,-190.73596)">
+     transform="translate(-225.12886,-643.27576)">
     <rect
        style="opacity:1;fill:#5229d0;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
        id="rect11235"
@@ -11992,60 +11992,64 @@
          id="tspan11241"
          sodipodi:role="line">1211</tspan></text>
   </g>
-  <rect
-     y="742.88519"
-     x="3718.8254"
-     height="93.21273"
-     width="325.0921"
-     id="rect11319"
-     style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
-  <text
-     sodipodi:linespacing="125%"
-     id="text11321"
-     y="790.52606"
-     x="3731.8572"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     xml:space="preserve"><tspan
-       y="790.52606"
-       x="3731.8572"
-       sodipodi:role="line"
-       id="tspan11436">板橋林口線</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="3732.1558"
-     y="821.60101"
-     id="text11325"
-     sodipodi:linespacing="125%"><tspan
-       y="821.60101"
-       x="3732.1558"
-       sodipodi:role="line"
-       id="tspan11478">Banqiao-Linkou Line</tspan></text>
   <g
-     id="g11397"
-     transform="translate(252.16822,-192.73596)">
+     id="g27573"
+     transform="translate(-477.29709,-461.58834)">
     <rect
-       y="935.62134"
-       x="3304.9514"
+       style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+       id="rect11319"
+       width="325.0921"
        height="93.21273"
-       width="149.1404"
-       id="rect11331"
-       style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+       x="3718.8254"
+       y="742.88519" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3731.8572"
+       y="790.52606"
+       id="text11321"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan11436"
+         sodipodi:role="line"
+         x="3731.8572"
+         y="790.52606">板橋林口線</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text11333"
-       y="1003.9363"
-       x="3330.8677"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92525864px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text11325"
+       y="821.60101"
+       x="3732.1558"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="1003.9363"
+         id="tspan11478"
+         sodipodi:role="line"
+         x="3732.1558"
+         y="821.60101">Banqiao-Linkou Line</tspan></text>
+    <g
+       transform="translate(252.16822,-192.73596)"
+       id="g11397">
+      <rect
+         style="opacity:1;fill:#228eba;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+         id="rect11331"
+         width="149.1404"
+         height="93.21273"
+         x="3304.9514"
+         y="935.62134" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92525864px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="3330.8677"
-         id="tspan11349"
-         sodipodi:role="line">948</tspan></text>
+         y="1003.9363"
+         id="text11333"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan11349"
+           x="3330.8677"
+           y="1003.9363">948</tspan></text>
+    </g>
   </g>
   <g
      id="g25460"
-     transform="matrix(2.3129909,0,0,2.3129909,-5190.3003,3426.3223)">
+     transform="matrix(2.3129909,0,0,2.3129909,-5667.3878,3656.5826)">
     <rect
        style="fill:#d12d33"
        width="29.969549"
@@ -13284,4 +13288,327 @@
        x="3427.0911"
        id="tspan27571"
        sodipodi:role="line">946</tspan></text>
+  <rect
+     style="opacity:1;fill:#f3446b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27586"
+     width="325.0921"
+     height="93.21273"
+     x="3752.5769"
+     y="503.39273" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3765.6086"
+     y="551.03357"
+     id="text27588"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan27757"
+       x="3765.6086"
+       y="551.03357">松山林口線</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text27592"
+     y="582.10852"
+     x="3765.9072"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27973">Songshan-Linkou Line</tspan></text>
+  <rect
+     y="503.39291"
+     x="3590.8711"
+     height="93.21273"
+     width="149.1404"
+     id="rect27598"
+     style="opacity:1;fill:#f3446b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27600"
+     y="571.70782"
+     x="3616.7874"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92499924px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27656"
+       x="3616.7874"
+       y="571.70782">945</tspan></text>
+  <rect
+     y="618.4165"
+     x="3752.3501"
+     height="93.21273"
+     width="325.0921"
+     id="rect27658"
+     style="opacity:1;fill:#710029;fill-opacity:0.84302326;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27660"
+     y="666.05737"
+     x="3765.3818"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27753"
+       x="3765.3818"
+       y="666.05737">圓山林口線</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3765.6804"
+     y="697.13232"
+     id="text27664"
+     sodipodi:linespacing="125%"><tspan
+       y="697.13232"
+       x="3765.6804"
+       sodipodi:role="line"
+       id="tspan27666">Banqiao-Linkou Line</tspan></text>
+  <rect
+     style="opacity:1;fill:#710029;fill-opacity:0.84302326;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27668"
+     width="149.1404"
+     height="93.21273"
+     x="3590.6443"
+     y="618.41669" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92499924px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3616.5605"
+     y="686.73163"
+     id="text27670"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan27674"
+       x="3616.5605"
+       y="686.73163">936</tspan></text>
+  <rect
+     style="opacity:1;fill:#710029;fill-opacity:0.84302326;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27676"
+     width="325.0921"
+     height="93.21273"
+     x="3752.3501"
+     y="721.5415" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3765.3818"
+     y="769.18237"
+     id="text27678"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan27755"
+       x="3765.3818"
+       y="769.18237">圓山林口線</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text27682"
+     y="800.25732"
+     x="3765.6804"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       id="tspan27684"
+       sodipodi:role="line"
+       x="3765.6804"
+       y="800.25732">Banqiao-Linkou Line</tspan></text>
+  <rect
+     y="721.54169"
+     x="3590.6443"
+     height="93.21273"
+     width="149.1404"
+     id="rect27686"
+     style="opacity:1;fill:#710029;fill-opacity:0.84302326;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27688"
+     y="789.85663"
+     x="3616.5605"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:61.92499924px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27692"
+       x="3616.5605"
+       y="789.85663">937</tspan></text>
+  <rect
+     y="282.78824"
+     x="3752.1367"
+     height="93.21273"
+     width="325.0921"
+     id="rect27712"
+     style="opacity:1;fill:#1f70e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27714"
+     y="330.42899"
+     x="3765.1685"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27759"
+       x="3765.1685"
+       y="330.42899">松山林口線</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     x="3765.467"
+     y="361.50406"
+     id="text27718"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan27975">Songshan-Linkou Line</tspan></text>
+  <rect
+     style="opacity:1;fill:#1f70e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27724"
+     width="149.1404"
+     height="93.21273"
+     x="3590.4309"
+     y="282.7883" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.88125229px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3605.2622"
+     y="348.84988"
+     id="text27726"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan27733"
+       x="3605.2622"
+       y="348.84988">2000</tspan></text>
+  <rect
+     style="opacity:1;fill:#0049b9;fill-opacity:0.8745098;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27735"
+     width="325.0921"
+     height="93.21273"
+     x="3753.0117"
+     y="392.16324" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3766.0435"
+     y="439.80399"
+     id="text27737"
+     sodipodi:linespacing="125%"><tspan
+       y="439.80399"
+       x="3766.0435"
+       sodipodi:role="line"
+       id="tspan27761">台北林口線</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text27741"
+     y="470.87906"
+     x="3766.342"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="470.87906"
+       x="3766.342"
+       sodipodi:role="line"
+       id="tspan27743">Taipei-Linkou Line</tspan></text>
+  <rect
+     y="392.1633"
+     x="3591.3059"
+     height="93.21273"
+     width="149.1404"
+     id="rect27745"
+     style="opacity:1;fill:#0049b9;fill-opacity:0.8745098;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27747"
+     y="458.22488"
+     x="3606.1372"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.88125229px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="458.22488"
+       x="3606.1372"
+       sodipodi:role="line"
+       id="tspan27751">2001</tspan></text>
+  <rect
+     style="opacity:1;fill:#d6008c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27763"
+     width="325.0921"
+     height="93.21273"
+     x="3752.6729"
+     y="175.33264" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3765.7046"
+     y="222.97339"
+     id="text27765"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan27767"
+       sodipodi:role="line"
+       x="3765.7046"
+       y="222.97339">松山林口線</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text27769"
+     y="254.04846"
+     x="3766.0032"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27977">Songshan-Linkou Line</tspan></text>
+  <rect
+     y="175.33272"
+     x="3590.967"
+     height="93.21273"
+     width="149.1404"
+     id="rect27773"
+     style="opacity:1;fill:#d6008c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27775"
+     y="241.39429"
+     x="3605.7983"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.88125229px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       sodipodi:role="line"
+       id="tspan27779"
+       x="3605.7983"
+       y="241.39429">5116</tspan></text>
+  <rect
+     y="830.45496"
+     x="3752.2534"
+     height="93.21273"
+     width="325.0921"
+     id="rect27781"
+     style="opacity:1;fill:#e10055;fill-opacity:0.8745098;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text27783"
+     y="878.0957"
+     x="3765.2852"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.85499573px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="878.0957"
+       x="3765.2852"
+       sodipodi:role="line"
+       id="tspan27799">圓山林口線</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.59874916px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3765.5837"
+     y="909.17078"
+     id="text27787"
+     sodipodi:linespacing="125%"><tspan
+       id="tspan27789"
+       sodipodi:role="line"
+       x="3765.5837"
+       y="909.17078">Taipei-Linkou Line</tspan></text>
+  <rect
+     style="opacity:1;fill:#e10055;fill-opacity:0.8745098;fill-rule:nonzero;stroke:none;stroke-width:5.04400015;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     id="rect27791"
+     width="149.1404"
+     height="93.21273"
+     x="3590.5476"
+     y="830.45502" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45.37327576px;line-height:125%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3601.2517"
+     y="897.09637"
+     id="text27793"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan27797"
+       x="3601.2517"
+       y="897.09637">1356b</tspan></text>
 </svg>
