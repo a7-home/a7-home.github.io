@@ -233,9 +233,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="1764.6236"
-     inkscape:cy="1753.2875"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="1349.2964"
+     inkscape:cy="1198.7446"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -11734,12 +11734,6 @@
      cx="2245.52"
      cy="1805.3046" />
   <circle
-     r="41.459812"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.95465565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle8558"
-     cx="1422.0853"
-     cy="2333.5188" />
-  <circle
      cy="1972.4335"
      cx="1449.3086"
      id="circle8315"
@@ -12004,12 +11998,6 @@
      id="circle24240"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:8.38913441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      r="29.094267" />
-  <circle
-     cy="2219.4563"
-     cx="1509.5853"
-     id="circle24242"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.95465565;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     r="41.459812" />
   <g
      transform="matrix(0.8660254,0.5,-0.5,0.8660254,770.13927,-388.21948)"
      id="g24244">
@@ -12040,4 +12028,22 @@
      cx="1745.5354"
      cy="2421.2673"
      r="38.74482" />
+  <circle
+     r="38.74482"
+     cy="2231.2324"
+     cx="1515.7257"
+     id="circle25454"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.17180634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <circle
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.17180634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle25456"
+     cx="1416.2888"
+     cy="2330.6694"
+     r="38.74482" />
+  <circle
+     r="38.74482"
+     cy="2209.1353"
+     cx="2399.6091"
+     id="circle25458"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.17180634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
