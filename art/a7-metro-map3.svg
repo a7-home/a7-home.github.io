@@ -265,9 +265,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.28"
-     inkscape:cx="722.455"
-     inkscape:cy="1382.1512"
+     inkscape:zoom="0.64"
+     inkscape:cx="1002.8631"
+     inkscape:cy="1869.8444"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -580,7 +580,10 @@
   <g
      style="fill:none;stroke-width:10"
      id="g8358-5"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <path
        style="stroke:#f98e99"
        inkscape:connector-curvature="0"
@@ -632,7 +635,10 @@
      letter-spacing="0"
      font-size="18"
      id="g8378"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <text
        y="637.11798"
        x="433.18942"
@@ -1909,7 +1915,10 @@
   <g
      style="fill:#ffffff;stroke-width:1.00030005"
      id="g8804"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <g
        style="stroke:#505050"
        id="g8806">
@@ -2408,37 +2417,55 @@
      cy="-1044.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8970" />
+     id="ellipse8970"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="2946.7595"
      cy="-1139.3579"
      r="7.4206972"
-     id="circle8972" />
+     id="circle8972"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="2946.7595"
      cy="-1139.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8974" />
+     id="ellipse8974"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="2946.7595"
      cy="-1244.3579"
      r="7.4206972"
-     id="circle8976" />
+     id="circle8976"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="2946.7595"
      cy="-1244.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8978" />
+     id="ellipse8978"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <g
      style="fill:#ffffff;stroke-width:1.00030005"
      id="g8980"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <circle
        style="stroke:#505050"
        transform="matrix(0.8027558,0,0,0.8027558,180.00734,-41.875788)"
@@ -2460,181 +2487,265 @@
      cy="-944.35791"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8986" />
+     id="ellipse8986"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3051.7595"
      cy="-944.35791"
      r="7.4206972"
-     id="circle8988" />
+     id="circle8988"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3051.7595"
      cy="-944.35791"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8990" />
+     id="ellipse8990"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3051.7595"
      cy="-1044.3579"
      r="7.4206972"
-     id="circle8992" />
+     id="circle8992"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3051.7595"
      cy="-1044.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8994" />
+     id="ellipse8994"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3161.7595"
      cy="-1044.3579"
      r="7.4206972"
-     id="circle8996" />
+     id="circle8996"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3161.7595"
      cy="-1044.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse8998" />
+     id="ellipse8998"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3161.7593"
      cy="-944.35791"
      r="7.4206972"
-     id="circle9000" />
+     id="circle9000"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3161.7593"
      cy="-944.35791"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9002" />
+     id="ellipse9002"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3051.7595"
      cy="-1139.3579"
      r="7.4206972"
-     id="circle9004" />
+     id="circle9004"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3051.7595"
      cy="-1139.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9006" />
+     id="ellipse9006"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3161.7595"
      cy="-1139.3579"
      r="7.4206972"
-     id="circle9008" />
+     id="circle9008"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3161.7595"
      cy="-1139.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9010" />
+     id="ellipse9010"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="2831.7595"
      cy="-1044.3579"
      r="7.4206972"
-     id="circle9012" />
+     id="circle9012"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="2831.7595"
      cy="-1044.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9014" />
+     id="ellipse9014"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="2999.2595"
      cy="-891.85791"
      r="7.4206972"
-     id="circle9016" />
+     id="circle9016"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="2999.2595"
      cy="-891.85791"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9018" />
+     id="ellipse9018"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="2841.7593"
      cy="-1244.3579"
      r="7.4206972"
-     id="circle9020" />
+     id="circle9020"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="2841.7593"
      cy="-1244.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9022" />
+     id="ellipse9022"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="2856.7595"
      cy="-1589.3579"
      r="7.4206972"
-     id="circle9024" />
+     id="circle9024"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="2856.7595"
      cy="-1589.358"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9026" />
+     id="ellipse9026"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3631.7595"
      cy="-1044.3579"
      r="7.4206972"
-     id="circle9028" />
+     id="circle9028"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3631.7595"
      cy="-1044.3579"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9030" />
+     id="ellipse9030"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <circle
      style="fill:#ffffff;stroke:#323232;stroke-width:1.08697462"
      cx="3071.7595"
      cy="-669.35785"
      r="7.4206972"
-     id="circle9032" />
+     id="circle9032"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#323232"
      cx="3071.7595"
      cy="-669.35791"
      rx="5.2794456"
      ry="5.0250149"
-     id="ellipse9034" />
+     id="ellipse9034"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#fca311"
      cx="2816.7593"
      cy="-709.35785"
      id="circle9036"
      rx="9.9999914"
-     ry="9.9999781" />
+     ry="9.9999781"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#cce226"
      cx="3026.7593"
      cy="-669.35785"
      id="circle9038"
      rx="9.9999914"
-     ry="9.9999781" />
+     ry="9.9999781"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <g
      style="fill:#007c59"
      id="g9040"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <circle
        transform="matrix(1.4643471,0,0,1.4643452,8.557607,117.94868)"
        cx="448.08591"
@@ -2651,7 +2762,10 @@
   <g
      style="fill:#d12d33"
      id="g9046"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <circle
        transform="matrix(1.4643471,0,0,1.4643452,408.5576,-237.05132)"
        cx="448.08591"
@@ -2671,11 +2785,17 @@
      cy="-1639.3579"
      id="circle9052"
      rx="9.9999914"
-     ry="9.9999781" />
+     ry="9.9999781"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <g
      style="fill:#fca311"
      id="g9054"
-     transform="translate(2407.0485,-1692.6467)">
+     transform="translate(2407.0485,-1692.6467)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <circle
        transform="matrix(1.4643471,0,0,1.4643452,-581.4424,-177.05132)"
        cx="448.08591"
@@ -2695,17 +2815,26 @@
      cy="-754.35785"
      id="circle9060"
      rx="9.9999914"
-     ry="9.9999781" />
+     ry="9.9999781"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <ellipse
      style="fill:#aa753f"
      cx="3581.7593"
      cy="-749.35785"
      id="circle9062"
      rx="9.9999914"
-     ry="9.9999781" />
+     ry="9.9999781"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
   <g
      id="g13998"
-     transform="translate(-259.57253,-234.26947)">
+     transform="translate(-259.57253,-234.26947)"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <rect
        id="rect9064"
        rx="0"
@@ -2981,7 +3110,10 @@
      sodipodi:linespacing="125%"
      id="text9150"
      y="-916.85553"
-     x="3047.0642">
+     x="3047.0642"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <tspan
        id="tspan9152"
        line-height="125%"
@@ -2995,7 +3127,10 @@
      sodipodi:linespacing="125%"
      id="text9154"
      y="-747.50897"
-     x="2451.6714">
+     x="2451.6714"
+     inkscape:export-filename="./text9154.png"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72">
     <tspan
        id="tspan9156"
        line-height="125%"
@@ -8489,6 +8624,14 @@
      d="m 1330.1275,2243.584 69.2866,-74.7676 -268.0956,3.4368 c -1.1101,-38.4645 -2.0967,-76.9326 -2.9597,-115.4034 -4.7459,-211.5587 -5.7553,-423.2012 -3.0273,-634.7955 l -421.889,1.0057 -273.01875,279.1039 2.1135,-341.1865 0.9443,-21.5219"
      style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#007daf;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.86627909" />
   <path
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#004aba;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
+     d="m 471.56705,1554.2426 271.041,-270.8322 422.41085,-11.9126 356.0577,-162.7576 511.1118,0.8915 8.4052,738.1673 145.3702,-1.9028"
+     id="path8372"
+     inkscape:path-effect="#path-effect8374"
+     inkscape:original-d="m 471.56705,1554.2426 c -1078.39974,-1064.10151 316.1119,-263.2809 271.041,-270.8322 l 422.41085,-11.9126 356.0577,-162.7576 511.1118,0.8915 c 0,0.024 8.4052,738.1673 8.4052,738.1673 0,0 98.476,-2.0498 145.3702,-1.9028"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccc" />
+  <path
      sodipodi:nodetypes="cccccccccc"
      inkscape:connector-curvature="0"
      inkscape:original-d="m 2188.72,1203.9713 c -55.1699,-53.8528 -122.8399,-73.4791 -122.8399,-73.4791 l -540.7665,-6.5084 -347.7223,163.8328 c 122.7653,-333.19515 -87.1218,12.2847 -428.17175,11.799 l -251.7722,256.5154 2.0069,-250.2596 c 0,0 364.9591,-458.7035 280.5233,-310.4468 l 137.41298,-1.6746 1.5625,-95.3125"
@@ -8614,14 +8757,6 @@
      cx="1529.8812"
      cy="1853.6354"
      r="18.936855" />
-  <path
-     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#004aba;stroke-width:19.20000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.87209305"
-     d="m 471.56705,1554.2426 271.041,-270.8322 422.41085,-11.9126 356.0577,-162.7576 511.1118,0.8915 8.4052,738.1673 145.3702,-1.9028"
-     id="path8372"
-     inkscape:path-effect="#path-effect8374"
-     inkscape:original-d="m 471.56705,1554.2426 c -1078.39974,-1064.10151 316.1119,-263.2809 271.041,-270.8322 l 422.41085,-11.9126 356.0577,-162.7576 511.1118,0.8915 c 0,0.024 8.4052,738.1673 8.4052,738.1673 0,0 98.476,-2.0498 145.3702,-1.9028"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.97319412px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#2060c2;fill-opacity:1;stroke:none;stroke-width:1.62343073;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -11364,12 +11499,6 @@
      id="circle8308"
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:6.60637426;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      r="22.911495" />
-  <circle
-     r="22.911495"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:6.60637426;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     id="circle8310"
-     cx="939.36212"
-     cy="1657.6327" />
   <circle
      cy="1497.2072"
      cx="941.42206"
