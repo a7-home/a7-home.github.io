@@ -266,8 +266,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.90509668"
-     inkscape:cx="1859.8349"
-     inkscape:cy="1738.7304"
+     inkscape:cx="1095.655"
+     inkscape:cy="1590.7122"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -8550,10 +8550,10 @@
      sodipodi:nodetypes="cccccccc" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#e0995e;stroke-width:27.94352722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 426.56155,2065.2488 354.1381,-1.176 -2.5778,137.6065"
+     d="m 426.56155,2088.6863 354.1381,3.5115 -2.5778,109.4815"
      id="path8404"
      inkscape:path-effect="#path-effect8406"
-     inkscape:original-d="m 426.56155,2065.2488 354.1381,-1.176 -2.5778,137.6065"
+     inkscape:original-d="m 426.56155,2088.6863 354.1381,3.5115 -2.5778,109.4815"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccc" />
   <path
@@ -8999,9 +8999,9 @@
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         d="m 538.32122,647.82956 0,0 0,0 -27.70764,-53.79631 c -4.66698,-8.16722 -10.34533,-22.11763 -23.17953,-22.89546 L 311.84677,570.89305 57.426606,572.1522 c -17.040304,3.8301 -21.403614,3.75657 -35.200585,16.50027 l -97.54289,122.95919 c 0,0 -12.30489,14.36428 -12.8549,-2.686 l -0.01954,-419.60979 c -6.47e-4,-13.8816 -14.729628,-10.50071 -29.508408,-10.88963 l -85.61939,-0.18872 -19.28941,-0.38893"
+         d="m 538.32122,647.82956 0,0 0,0 -27.70764,-53.79631 c -4.66698,-8.16722 -10.34533,-22.11763 -23.17953,-22.89546 l -175.58728,-0.24474 -204.86823,1.25915 c -24.487599,0 -34.968207,10.95286 -35.063083,31.41928 L 71.552,681.97522 c 0,25.19372 -4.175604,33.17935 -22.049415,33.17935 l -120.77395,-1.47633 c 0,0 -16.350394,5.69759 -16.900404,-11.35269 l -0.01954,-413.00968 c -6.57e-4,-13.8816 -14.729631,-10.50071 -29.508411,-10.88963 l -85.61939,-0.18872 -19.28941,-0.38893"
          id="path10223"
-         sodipodi:nodetypes="ccccccccccsccc"
+         sodipodi:nodetypes="cccccccsccccsccc"
          style="opacity:0.31300001;stroke:#974578;stroke-opacity:1" />
     </g>
   </g>
@@ -10930,8 +10930,8 @@
      style="fill:#ffffff;stroke:#505050;stroke-width:2.28120255"
      id="circle15375"
      r="15.573606"
-     cy="1646.5642"
-     cx="1550.1559" />
+     cy="1653.1934"
+     cx="1544.6316" />
   <circle
      style="fill:#ffffff;stroke:#505050;stroke-width:2.28120255"
      id="circle15377"
@@ -11668,12 +11668,6 @@
      id="circle8389"
      cx="2034.6531"
      cy="1465.8689" />
-  <circle
-     cy="1659.5143"
-     cx="1243.0708"
-     id="circle8315"
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:6.60637426;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     r="22.911495" />
   <circle
      cy="1818.0306"
      cx="937.26581"
@@ -13530,26 +13524,28 @@
        x="3724.9954"
        y="897.09637">1356b</tspan></text>
   <circle
-     cx="1317.3434"
+     cx="1242.2133"
      cy="1654.3767"
      r="15.573606"
      id="circle10238"
-     style="fill:#ffffff;stroke:#505050;stroke-width:2.28120255;opacity:0.313" />
+     style="opacity:0.31300001;fill:#ffffff;stroke:#505050;stroke-width:2.28120255" />
   <circle
-     style="fill:#ffffff;stroke:#505050;stroke-width:2.28120255;opacity:0.313"
+     style="opacity:0.31300001;fill:#ffffff;stroke:#505050;stroke-width:2.28120255"
      id="circle10240"
      r="15.573606"
-     cy="1654.3767"
-     cx="1040.7809" />
+     cy="1655.5486"
+     cx="1042.3434" />
   <text
      id="text10242"
-     x="1293.7841"
+     x="1260.6384"
      y="1726.0353"
      sodipodi:linespacing="125%"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86250019px;line-height:125%;font-family:'Noto Sans CJK TC Regular';-inkscape-font-specification:'Noto Sans CJK TC Regular, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr;text-anchor:start;opacity:0.313;">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86249924px;line-height:125%;font-family:'Noto Sans CJK TC Regular';-inkscape-font-specification:'Noto Sans CJK TC Regular, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;opacity:0.31300001">
     <tspan
        sodipodi:role="line"
-       id="tspan10260">五股</tspan>
+       id="tspan10260"
+       x="1260.6384"
+       y="1726.0353">五股</tspan>
   </text>
   <text
      id="text10250"
@@ -13569,8 +13565,8 @@
        y="1784.6793">副都心</tspan>
   </text>
   <circle
-     cx="820.46838"
-     cy="1658.283"
+     cx="863.69177"
+     cy="1715.5736"
      r="15.573606"
      id="circle10254"
      style="opacity:0.31300001;fill:#ffffff;stroke:#505050;stroke-width:2.28120255" />
@@ -13578,8 +13574,8 @@
      style="opacity:0.31300001;fill:#ffffff;stroke:#505050;stroke-width:2.28120255"
      id="circle10256"
      r="15.573606"
-     cy="1817.658"
-     cx="629.06213" />
+     cy="1871.7959"
+     cx="859.42426" />
   <circle
      cy="2071.2812"
      cx="406.63693"
@@ -13602,26 +13598,28 @@
        style="fill:#e53935;fill-opacity:1" />
   </g>
   <text
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86250019px;line-height:125%;font-family:'Noto Sans CJK TC Regular';-inkscape-font-specification:'Noto Sans CJK TC Regular, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr;text-anchor:start;opacity:0.313;"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86249924px;line-height:125%;font-family:'Noto Sans CJK TC Regular';-inkscape-font-specification:'Noto Sans CJK TC Regular, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;opacity:0.31300001"
      sodipodi:linespacing="125%"
-     y="1747.9103"
-     x="770.34656"
+     y="1730.5466"
+     x="739.14252"
      id="text10267">
     <tspan
        sodipodi:role="line"
-       id="tspan10271">泰山</tspan>
+       id="tspan10271"
+       x="739.14252"
+       y="1730.5466">泰山</tspan>
   </text>
   <text
      id="text10273"
-     x="656.28406"
-     y="1851.0353"
+     x="641.9209"
+     y="1878.6566"
      sodipodi:linespacing="125%"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86249924px;line-height:125%;font-family:'Noto Sans CJK TC Regular';-inkscape-font-specification:'Noto Sans CJK TC Regular, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;opacity:0.313;">
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.86249924px;line-height:125%;font-family:'Noto Sans CJK TC Regular';-inkscape-font-specification:'Noto Sans CJK TC Regular, Normal';text-align:start;letter-spacing:0;word-spacing:0;writing-mode:lr-tb;text-anchor:start;opacity:0.31300001">
     <tspan
        sodipodi:role="line"
        id="tspan10277"
-       x="656.28406"
-       y="1851.0353">泰山貴和</tspan>
+       x="641.9209"
+       y="1878.6566">泰山貴和</tspan>
   </text>
   <g
      transform="matrix(1.1441286,0,0,1.1441286,-2377.5494,-831.49103)"
@@ -13838,4 +13836,16 @@
        id="tspan10289"
        x="2345.8894"
        y="239.19101">林口公車轉捷運路線圖</tspan></text>
+  <circle
+     r="22.911495"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:6.60637426;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="circle10304"
+     cx="937.26581"
+     cy="1818.0306" />
+  <circle
+     cy="1659.5143"
+     cx="1243.0708"
+     id="circle8315"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:6.60637426;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="22.911495" />
 </svg>
