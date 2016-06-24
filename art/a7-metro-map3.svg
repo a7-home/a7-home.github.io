@@ -285,9 +285,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1218.6078"
-     inkscape:cy="1118.8235"
+     inkscape:zoom="0.16"
+     inkscape:cx="3344.2207"
+     inkscape:cy="1400.9796"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -3627,7 +3627,7 @@
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#757374;stroke-width:11.17180634;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
      id="g8358"
-     transform="matrix(1.7847912,0,0,1.7847912,4049.2392,3020.1362)">
+     transform="matrix(1.232364,0,0,1.232364,3843.9525,3119.8493)">
     <circle
        id="circle8360"
        r="28.275999"
@@ -5417,4 +5417,43 @@
        id="tspan8972"
        x="618.74963"
        y="2100.7656">10m</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:69.24478149px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="3952.5566"
+     y="3185.2117"
+     id="text8932"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan8934"
+       x="3952.5566"
+       y="3185.2117">Andrew Chen</tspan></text>
+  <g
+     id="g8548"
+     transform="matrix(0.19826005,0,0,0.19826005,3647.8128,3014.8302)">
+    <text
+       transform="matrix(5.3310227e-4,0.97876872,-1.0216939,-0.0038335,0,0)"
+       sodipodi:linespacing="125%"
+       id="text8131-9"
+       y="360.2301"
+       x="177.61938"
+       style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="360.2301"
+         x="177.61938"
+         id="tspan8133-9"
+         sodipodi:role="line">&lt;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1367.37548828px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-922.22833"
+       y="-146.2099"
+       id="text8485"
+       sodipodi:linespacing="125%"
+       transform="matrix(-0.90617886,0.36990314,-0.38206044,-0.94757744,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan8487"
+         x="-922.22833"
+         y="-146.2099">&lt;</tspan></text>
+  </g>
 </svg>
