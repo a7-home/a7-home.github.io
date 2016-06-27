@@ -295,9 +295,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1648808"
-     inkscape:cx="460.61478"
-     inkscape:cy="-727.24533"
+     inkscape:zoom="1.6473902"
+     inkscape:cx="440.5138"
+     inkscape:cy="-722.84009"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1855"
@@ -1153,20 +1153,6 @@
          id="tspan8577"
          sodipodi:role="line">A</tspan></text>
     <text
-       inkscape:export-ydpi="135"
-       inkscape:export-xdpi="135"
-       inkscape:export-filename="farhip-park-id-8k-3111-black-2.png"
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9373188px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="423.40961"
-       y="762.56"
-       id="text8579"
-       sodipodi:linespacing="125%"><tspan
-         y="762.56"
-         x="423.40961"
-         id="tspan8581"
-         sodipodi:role="line">30350</tspan></text>
-    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.23554897px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="269.63971"
@@ -1437,20 +1423,6 @@
          x="408.31909"
          y="1025.5413">A</tspan></text>
     <text
-       sodipodi:linespacing="125%"
-       id="text8307"
-       y="1025.4"
-       x="425.06909"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9373188px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="farhip-park-id-8k-3111-black-orange-bg-3.png"
-       inkscape:export-xdpi="135"
-       inkscape:export-ydpi="135"><tspan
-         sodipodi:role="line"
-         id="tspan8309"
-         x="425.06909"
-         y="1025.4">30350</tspan></text>
-    <text
        inkscape:export-ydpi="135"
        inkscape:export-xdpi="135"
        inkscape:export-filename="farhip-park-id-8k-3111-black-orange-bg-3.png"
@@ -1511,5 +1483,33 @@
          x="269.54898"
          id="tspan8341"
          sodipodi:role="line">文青</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8343"
+       y="1025.6462"
+       x="423.40961"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9375px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="farhip-park-id-8k-3111-black-orange-bg-3.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135"><tspan
+         id="tspan8345"
+         sodipodi:role="line"
+         x="423.40961"
+         y="1025.6462">30494</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8347"
+       y="762.52911"
+       x="423.40961"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.9375px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="farhip-park-id-8k-3111-3.png"
+       inkscape:export-xdpi="135"
+       inkscape:export-ydpi="135"><tspan
+         id="tspan8349"
+         sodipodi:role="line"
+         x="423.40961"
+         y="762.52911">30494</tspan></text>
   </g>
 </svg>
