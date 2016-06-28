@@ -1,15 +1,137 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!DOCTYPE html>
+<html>
 
+<head>
+    <meta charset="utf-8" />
+    <meta name="description" content="" />
+    <meta name="author" content="Andrew Chen" />
+
+    <title>A7 宜居</title>
+
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='http://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link rel="shortcut icon" href="/favicon.ico"/>
+    <link rel="bookmark" href="/favicon.ico"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css' />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://html2canvas.hertzen.com/build/html2canvas.js"></script>
+    <script type="text/javascript" src="http://gabelerner.github.io/canvg/rgbcolor.js"></script>
+    <script type="text/javascript" src="http://gabelerner.github.io/canvg/StackBlur.js"></script>
+    <script type="text/javascript" src="http://gabelerner.github.io/canvg/canvg.js"></script>
+    <style>
+
+#svg2 {
+    display: block;
+    margin: auto;
+}
+
+.navbar-brand {
+  color: #fed136;
+  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+#container {
+  background-image: url('img/header-bg.jpg');
+  background-repeat: none;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+  color: white;
+  height: 800px;
+}
+
+.empty-2em {
+  height: 2em;
+}
+
+.empty-6em {
+  height: 6em;
+}
+
+body {
+    margin: 0;
+}
+
+input {
+    border: 3px solid #ccc;
+    border-radius: 4px;
+}
+
+#car-id {
+  font-size: 34px;
+}
+
+#park-id {
+  font-size: 24px;
+      font-style: bold;
+}
+    </style>
+</head>
+<body>
+<script>
+    $(function() {
+        //var svg = document.getElementById("svg");
+        $('input[name=car-id]').keyup(function () {
+            console.log($(this).val());
+            $('#tspan8353').text($(this).val());
+        });
+        $('input[name=park-id]').keyup(function () {
+            $('#tspan8871').text($(this).val());
+        });
+
+        $('#download').on('click', function() {
+            canvg('canvas', $('#svg2').html(), {
+                renderCallback: function() {
+                    console.log("rendered");
+                    html2canvas($("#canvas"), {
+                        onrendered: function(canvas) {
+                            console.log("rendered");
+                            window.open(canvas.toDataURL("image/png"));
+                        }
+                    });
+                }
+            });
+        });
+
+    });
+</script>
+
+<div id="container">
+<div class="empty-6em"></div>
+
+<a class="navbar-brand" href="/">A7 宜居</a>
+
+<div class="empty-2em"></div>
+
+<h2> 車牌 </h2>
+<div>
+    <input type="text" name="car-id" id="car-id" />
+</div>
+
+<h2> 車位號碼 </h2>
+<div>
+    <input type="text" name="park-id" id="park-id" />
+</div>
+
+<h2> 下載 </h2>
+<div>
+    <input type="button" name="download" id="download" value="下載" />
+</div>
+
+<div class="empty-6em"></div>
+
+<div id="svg">
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="798.26703"
    height="222.95447"
    id="svg2"
@@ -1789,3 +1911,12 @@
          y="95.445847">文青</tspan></text>
   </g>
 </svg>
+</div>
+
+
+    <div class="empty-6em"></div>
+
+    <canvas id="canvas"></canvas>
+</div> <!-- container -->
+</body>
+</html>
