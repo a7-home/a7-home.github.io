@@ -92,11 +92,11 @@ input {
         $('#download').on('click', function() {
             canvg(document.getElementById('canvas'), "<svg>" + $('#svg').html() + "</svg>", {
                 renderCallback: function() {
-                    console.log("rendered");
+                    $('#canvas').show();
                     html2canvas($("#canvas"), {
                         onrendered: function(canvas) {
-                            console.log("rendered");
-                            window.open(canvas.toDataURL("image/png"));
+                            $('#canvas').hide();
+                            location.href = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
                         }
                     });
                 }
