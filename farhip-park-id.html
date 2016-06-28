@@ -75,10 +75,6 @@ input {
   font-size: 24px;
       font-style: bold;
 }
-
-#download-container {
-    opacity: 0.1;
-}
     </style>
 </head>
 <body>
@@ -94,7 +90,7 @@ input {
         });
 
         $('#download').on('click', function() {
-            canvg('canvas', $('#svg2').html(), {
+            canvg(document.getElementById('canvas'), "<svg>" + $('#svg').html() + "</svg>", {
                 renderCallback: function() {
                     console.log("rendered");
                     html2canvas($("#canvas"), {
@@ -129,13 +125,21 @@ input {
 
 <div id="download-container">
 <h2> 下載 </h2>
-    <input type="button" name="download" id="download" value="下載 (維修中)" />
+    <input type="button" name="download" id="download" value="下載" />
 </div>
 
 <div class="empty-2em"></div>
 
 <div id="svg">
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="798.26703"
    height="222.95447"
    id="svg2"
@@ -1919,7 +1923,10 @@ input {
 
     <div class="empty-6em"></div>
 
-    <canvas id="canvas"></canvas>
+    <canvas id="canvas"
+            width="798.26703"
+            height="222.95447"
+        ></canvas>
 
 </div> <!-- container -->
 
