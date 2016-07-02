@@ -78,6 +78,18 @@ function _RxFacebookApi(next, observer) {
             });
       }
 
+      function parseFacebookLogIn(permissions) {
+        return new Promise(function (resolve, reject) {
+          Parse.FacebookUtils.logIn(permissions, function {
+            success: function(user) {
+              resolve(user);
+            },
+            error: function(user, error) {
+              reject(error);
+            }
+          });
+        });
+      }
       // Initialize Parse
       Parse.initialize("188623204850625", "4d280ed561b365f0d942593795e78321");
       Parse.serverURL = 'https://a7-home.herokuapp.com/parse';
@@ -95,7 +107,7 @@ function _RxFacebookApi(next, observer) {
         // Run code after the Facebook SDK is loaded.
 
 
-        Rx.Observable.fromPromise(Parse.FacebookUtils.logIn()).flatMap(function (user) {
+        Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
           return Parse.Cloud.run("url", { id: "9EeEEDwgoj" });
         })
         //Rx.Observable.fromPromise(Parse.Cloud.run("url", { id: "9EeEEDwgoj" }))
