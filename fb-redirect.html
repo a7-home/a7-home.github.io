@@ -83,7 +83,8 @@ function _RxFacebookApi(next, observer) {
       Parse.serverURL = 'https://a7-home.herokuapp.com/';
 
       window.fbAsyncInit = function() {
-        Parse.FacebookUtils.init({ // this line replaces FB.init({
+        //Parse.FacebookUtils.init({ // this line replaces FB.init({
+        FB.init({ // this line replaces FB.init({
           appId      : '188623204850625', // Facebook App ID
           status     : true,  // check Facebook Login status
           cookie     : true,  // enable cookies to allow Parse to access the session
@@ -93,9 +94,11 @@ function _RxFacebookApi(next, observer) {
 
         // Run code after the Facebook SDK is loaded.
 
-        Rx.Observable.fromPromise(Parse.FacebookUtils.logIn()).flatMap(function (user) {
-          return Parse.Cloud.run("url", { id: "9EeEEDwgoj" });
-        })
+
+        //Rx.Observable.fromPromise(Parse.FacebookUtils.logIn()).flatMap(function (user) {
+        //  return Parse.Cloud.run("url", { id: "9EeEEDwgoj" });
+        //})
+        Rx.Observable.fromPromise(Parse.Cloud.run("url", { id: "9EeEEDwgoj" }))
         .subscribe(function (url) {
           console.log(url);
           //window.location = url;
