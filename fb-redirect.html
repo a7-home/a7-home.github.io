@@ -25,9 +25,10 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <link rel="shortcut icon" href="/favicon.ico"/>
     <link rel="bookmark" href="/favicon.ico"/>
-    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/4.1.0/rx.all.min.js"></script>
+    <script src="https://www.parsecdn.com/js/parse-1.6.14.min.js"></script>
+    <script src="https://github.com/yongjhih/rx-facebook-sdk.js/raw/master/rx-facebook-sdk.js"></script>
     <script>
       var qs;
       (window.onpopstate = function () {
@@ -50,44 +51,37 @@
             });
       }
 
-      function FbMembers(id, token) {
-        var url = (token) ? `https://graph.facebook.com/v2.6/${id}/members?access_token=${token}` : `https://graph.facebook.com/v2.6/${id}/members`;
-        return FbFetch(url).flatMap(function (json) { return Rx.Observable.from(json.data); });
-      }
+      // Initialize Parse
+      Parse.initialize("188623204850625", "4d280ed561b365f0d942593795e78321");
+      Parse.serverURL = 'https://a7-home.herokuapp.com/';
 
-      function FbGet(id, token) {
-        var url = (token) ? `https://graph.facebook.com/v2.6/${id}?access_token=${token}` : `https://graph.facebook.com/v2.6/${id}`;
-        return FbFetch(url);
-      }
-
-      qs['group'];
-      qs['ref'];
-      // Initialize Firebase
-      var config = {
-        apiKey: "AIzaSyBtx2cVepvJOuAxdGHhKkZybTbHZ-TMoLQ",
-        authDomain: "a7-home.firebaseapp.com",
-        databaseURL: "https://a7-home.firebaseio.com",
-        storageBucket: "firebase-a7-home.appspot.com",
-      };
-      firebase.initializeApp(config);
-
-      var fbAuthProvider = new firebase.auth.FacebookAuthProvider();
-
-      //fbAuthProvider.addScope(['public_profile', 'email']);
-      Rx.Observable.fromPromise(firebase.auth().signInWithPopup(fbAuthProvider))
-        .map(function (res) { return res.credential.accessToken; })
-        .doOnNext(function (it) { console.log(it); })
-        //.flatMap(function (token) { return FbMembers('1444562472508601', token).doOnNext(function (it) { console.log(it); }).map(function (it) { return token; }); })
-        .flatMap(function (token) { return FbMembers('1444562472508601', token); })
-        .first()
-        .subscribe(function (it) {
-          console.log(it);
-          //window.location = "";
-        }, function (e) {
-          console.log(e);
-        }, function () {
-          console.log('completed');
+      window.fbAsyncInit = function() {
+        Parse.FacebookUtils.init({ // this line replaces FB.init({
+          appId      : '188623204850625', // Facebook App ID
+          status     : true,  // check Facebook Login status
+          cookie     : true,  // enable cookies to allow Parse to access the session
+          xfbml      : true,  // initialize Facebook social plugins on the page
+          version    : 'v2.3' // point to the latest Facebook Graph API version
         });
+
+        // Run code after the Facebook SDK is loaded.
+
+        Rx.Observable.fromPromise(Parse.FacebookUtils.logIn()).flatMap(function (user) {
+          return Parse.Cloud.run("url", { id: "9EeEEDwgoj" });
+        })
+        .subscribe(function (url) {
+          console.log(url);
+          //window.location = url;
+        });
+      };
+
+      (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) {return;}
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
     </script>
 
 </head>
