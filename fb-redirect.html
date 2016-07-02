@@ -85,7 +85,8 @@ function _RxFacebookApi(next, observer) {
               resolve(user);
             },
             error: function(user, error) {
-              reject(error);
+              if (user == null) reject(error);
+              else resolve(user);
             }
           });
         });
