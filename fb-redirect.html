@@ -116,6 +116,8 @@ function _RxFacebookApi(next, observer) {
         .subscribe(function (url) {
           console.log(url);
           //window.location = url;
+        }, function (e) {
+          console.log(e);
         });
       };
 
