@@ -110,7 +110,7 @@ function _RxFacebookApi(next, observer) {
 
 
         Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
-          return Parse.Cloud.run("url", { id: "9EeEEDwgoj" });
+          return Parse.Cloud.run("url", { id: "YUiv5EfUpf" });
         })
         //Rx.Observable.fromPromise(Parse.Cloud.run("url", { id: "9EeEEDwgoj" }))
         .subscribe(function (url) {
