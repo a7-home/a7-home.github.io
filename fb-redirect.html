@@ -25,11 +25,43 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
     <link rel="shortcut icon" href="/favicon.ico"/>
     <link rel="bookmark" href="/favicon.ico"/>
-
-
     <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase.js"></script>
-    <!--<script src="https://www.gstatic.com/firebasejs/3.1.0/firebase-auth.js"></script>-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/4.1.0/rx.all.min.js"></script>
     <script>
+      var qs;
+      (window.onpopstate = function () {
+          var match,
+              pl     = /\+/g,  // Regex for replacing addition symbol with a space
+              search = /([^&=]+)=?([^&]*)/g,
+              decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+              query  = window.location.search.substring(1);
+
+          qs = {};
+          while (match = search.exec(query))
+             qs[decode(match[1])] = decode(match[2]);
+      })();
+
+      function FbFetch(url, options) {
+        return Rx.Observable.fromPromise(fetch(url, options))
+            .flatMap(function (response) { return Rx.Observable.fromPromise(response.json()); })
+            .flatMap(function (json) {
+              return Rx.Observable.concat(Rx.Observable.just(json), (json.paging && json.paging.next) ? FbFetch(json.paging.next, options) : Rx.Observable.empty());
+            });
+      }
+
+      function FbMembers(id, token) {
+        var url = (token) ? `https://graph.facebook.com/v2.6/${id}/members?access_token=${token}` : `https://graph.facebook.com/v2.6/${id}/members`;
+        return FbFetch(url).flatMap(function (json) { return Rx.Observable.from(json.data); });
+      }
+
+      function FbGet(id, token) {
+        var url = (token) ? `https://graph.facebook.com/v2.6/${id}?access_token=${token}` : `https://graph.facebook.com/v2.6/${id}`;
+        return FbFetch(url);
+      }
+
+      qs['group'];
+      qs['ref'];
       // Initialize Firebase
       var config = {
         apiKey: "AIzaSyBtx2cVepvJOuAxdGHhKkZybTbHZ-TMoLQ",
@@ -42,24 +74,20 @@
       var fbAuthProvider = new firebase.auth.FacebookAuthProvider();
 
       //fbAuthProvider.addScope(['public_profile', 'email']);
-      firebase.auth().signInWithPopup(fbAuthProvider).then(function(result) {
-        // This gives you a Facebook Access Token. You can use it to access the Facebook API.
-        var token = result.credential.accessToken;
-        console.log(token);
-        // The signed-in user info.
-        var user = result.user;
-        // ...
-        console.log(user);
-      }).catch(function(error) {
-        // Handle Errors here.
-        var errorCode = error.code;
-        var errorMessage = error.message;
-        // The email of the user's account used.
-        var email = error.email;
-        // The firebase.auth.AuthCredential type that was used.
-        var credential = error.credential;
-        // ...
-      });
+      Rx.Observable.fromPromise(firebase.auth().signInWithPopup(fbAuthProvider))
+        .map(function (res) { return res.credential.accessToken; })
+        .doOnNext(function (it) { console.log(it); })
+        //.flatMap(function (token) { return FbMembers('1444562472508601', token).doOnNext(function (it) { console.log(it); }).map(function (it) { return token; }); })
+        .flatMap(function (token) { return FbMembers('1444562472508601', token); })
+        .first()
+        .subscribe(function (it) {
+          console.log(it);
+          //window.location = "";
+        }, function (e) {
+          console.log(e);
+        }, function () {
+          console.log('completed');
+        });
     </script>
 
 </head>
@@ -98,8 +126,8 @@
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">歡迎來到</div>
-                <div class="intro-heading">A7 宜居</div>
+                <div class="intro-lead-in">A7 宜居</div>
+                <div class="intro-heading">重新導向 ...</div>
                 <a href="#future" class="page-scroll btn btn-xl">V</a>
             </div>
         </div>
