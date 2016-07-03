@@ -109,10 +109,9 @@ function _RxFacebookApi(next, observer) {
         // Run code after the Facebook SDK is loaded.
 
 
-        Rx.Observable.fromPromise(parseFacebookLogIn())/*.flatMap(function (user) {
+        Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
           return Parse.Cloud.run("url", { id: "YUiv5EfUpf" });
-        })*/
-        //Rx.Observable.fromPromise(Parse.Cloud.run("url", { id: "YUiv5EfUpf" }))
+        })
         .subscribe(function (url) {
           console.log(url);
           //window.location = url;
