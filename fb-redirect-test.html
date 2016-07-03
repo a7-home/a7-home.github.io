@@ -92,7 +92,7 @@
               console.log(url);
               window.location = url;
             }, function (e) {
-              $("#redirect").text(e);
+              $("#redirect").text(e.message);
               console.log(e);
             });
         }
