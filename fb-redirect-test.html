@@ -92,6 +92,7 @@
               console.log(url);
               window.location = url;
             }, function (e) {
+              $("#redirect").text(e);
               console.log(e);
             });
         }
@@ -198,7 +199,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">A7 宜居</div>
-                <div class="intro-heading">重新導向
+                <div id="redirect" class="intro-heading">重新導向
                     <div class="spinner">
                       <div class="rect1"></div>
                       <div class="rect2"></div>
