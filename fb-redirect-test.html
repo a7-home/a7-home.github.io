@@ -99,7 +99,11 @@
               console.log(url);
               window.location = url;
             }, function (e) {
-              $("#redirect").text(e.message);
+              if (e.message) {
+                $("#redirect").text(e.message);
+              } else {
+                $("#redirect").text("Failed");
+              }
               console.log(e);
             });
         }
