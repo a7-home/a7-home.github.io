@@ -85,7 +85,7 @@
         // Run code after the Facebook SDK is loaded.
 
         if (qs['id']) {
-            Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
+            Rx.Observable.fromPromise(parseFacebookLogIn("user_groups")).flatMap(function (user) {
               return Parse.Cloud.run("url", { id: qs['id'] });
             })
             .subscribe(function (url) {
