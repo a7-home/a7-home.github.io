@@ -108,16 +108,17 @@ function _RxFacebookApi(next, observer) {
 
         // Run code after the Facebook SDK is loaded.
 
-
-        Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
-          return Parse.Cloud.run("url", { id: "YUiv5EfUpf" });
-        })
-        .subscribe(function (url) {
-          console.log(url);
-          //window.location = url;
-        }, function (e) {
-          console.log(e);
-        });
+        if (qs['id']) {
+            Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
+              return Parse.Cloud.run("url", { id: qs['id'] });
+            })
+            .subscribe(function (url) {
+              console.log(url);
+              window.location = url;
+            }, function (e) {
+              console.log(e);
+            });
+        }
       };
 
       (function(d, s, id){
