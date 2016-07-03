@@ -57,8 +57,15 @@
               resolve(user);
             },
             error: function(user, error) {
-              if (user == null) reject(error);
-              else resolve(user);
+                if (user != null) {
+                  Parse.User.logOut().then(function () {
+                    reject(error);
+                  }).catch(function(e) {
+                    reject(error);
+                  })
+                } else {
+                  reject(error);
+                }
             }
           });
         });
