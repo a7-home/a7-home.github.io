@@ -60,7 +60,7 @@
                 if (user != null) {
                   Parse.User.logOut().then(function () {
                     reject(error);
-                  }).catch(function(e) {
+                  }, function(e) {
                     reject(error);
                   });
                 } else {
