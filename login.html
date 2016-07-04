@@ -85,7 +85,7 @@
         Rx.Observable.fromPromise(parseFacebookLogIn()).subscribe(function (url) {
           if (qs['redirect']) {
             window.location = qs['redirect'];
-          } else if (document.referrer) {
+          } else if (document.referrer && window.location.href != document.referrer) {
             window.location = document.referrer;
           } else {
             window.location = "/";
