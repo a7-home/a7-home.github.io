@@ -85,8 +85,10 @@
         Rx.Observable.fromPromise(parseFacebookLogIn()).subscribe(function (url) {
           if (qs['redirect']) {
             window.location = qs['redirect'];
-          } else {
+          } else if (document.referrer) {
             window.location = document.referrer;
+          } else {
+            window.location = "/";
           }
         }, function (e) {
           console.log(e);
@@ -194,7 +196,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in">A7 宜居</div>
-                <div class="intro-heading">重新導向
+                <div class="intro-heading">登入中
                     <div class="spinner">
                       <div class="rect1"></div>
                       <div class="rect2"></div>
