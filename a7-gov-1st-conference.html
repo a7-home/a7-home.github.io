@@ -33,8 +33,30 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
     <style>
-    img {
+    #conference img {
         width:100%; /* fix included img over width by hackpad */
+    }
+
+    .empty-4em {
+        height: 4em;
+    }
+    .arrow {
+      color: white;
+      white-space: nowrap;
+      font-size: 4rem;
+      margin-top: 1.5em;
+      width: 40px;
+      height: 40px;
+      -webkit-transition: all 500ms ease-in-out;
+      -moz-transition: all 750ms ease-in-out;
+      -ms-transition: all 750ms ease-in-out;
+      -o-transition: all 750ms ease-in-out;
+      transition: all 750ms ease-in-out;
+    }
+
+    /* this sets the position of the arrow when it's up, so it will move up or down by 14px when you add or remove this class */
+    .lift {
+      margin-top: 2em;
     }
     </style>
 </head>
@@ -80,6 +102,9 @@
                 <div class="intro-heading">第一次座談會</div>
                 <!--<a href="https://a7-home.github.io/fb-redirect.html?id=YUiv5EfUpf" class="btn btn-xl">報名</a>-->
                 <a href="https://www.facebook.com/groups/ia7home/permalink/1589966024634911/" class="btn btn-xl">報名</a>
+                <div class="empty-4em">
+                    <a href="#conference" class="page-scroll"><i class="fa fa-angle-down arrow"></i></a>
+                </div>
             </div>
         </div>
     </header>
@@ -178,6 +203,22 @@
 
     <!-- jQuery -->
     <script src="js/jquery.min.js"></script>
+    <script>
+$(function () {
+var arrowBounce = function() {
+  var arrow = $(".arrow");
+
+  if (arrow.hasClass("lift")) {
+    arrow.removeClass("lift");
+  } else {
+    arrow.addClass("lift");
+  }
+};
+
+// run the arrowBounce function every 800ms
+setInterval(arrowBounce, 800);
+});
+    </script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
