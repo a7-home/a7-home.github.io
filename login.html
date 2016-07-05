@@ -42,14 +42,6 @@
              qs[decode(match[1])] = decode(match[2]);
       })();
 
-      function FbFetch(url, options) {
-        return Rx.Observable.fromPromise(fetch(url, options))
-            .flatMap(function (response) { return Rx.Observable.fromPromise(response.json()); })
-            .flatMap(function (json) {
-              return Rx.Observable.concat(Rx.Observable.just(json), (json.paging && json.paging.next) ? FbFetch(json.paging.next, options) : Rx.Observable.empty());
-            });
-      }
-
       function parseFacebookLogIn(permissions) {
         return new Promise(function (resolve, reject) {
           Parse.FacebookUtils.logIn(permissions, {
@@ -57,8 +49,20 @@
               resolve(user);
             },
             error: function(user, error) {
-              if (user == null) reject(error);
-              else resolve(user);
+              reject(error);
+            }
+          });
+        });
+      }
+
+      function parseFacebookLink(permissions) {
+        return new Promise(function (resolve, reject) {
+          Parse.FacebookUtils.link(Parse.User.current(), permissions, {
+            success: function(user) {
+              resolve(user);
+            },
+            error: function(user, error) {
+              reject(error);
             }
           });
         });
@@ -82,7 +86,7 @@
           version    : 'v2.3' // point to the latest Facebook Graph API version
         });
 
-        Rx.Observable.fromPromise(parseFacebookLogIn()).subscribe(function (url) {
+        loginObs.subscribe(function (url) {
           if (qs['redirect']) {
             window.location = qs['redirect'];
           } else if (document.referrer && window.location.href != document.referrer) {
@@ -92,6 +96,13 @@
           }
         }, function (e) {
           console.log(e);
+          if (qs['redirect']) {
+            window.location = qs['redirect'];
+          } else if (document.referrer && window.location.href != document.referrer) {
+            window.location = document.referrer;
+          } else {
+            window.location = "/";
+          }
         });
       };
 
