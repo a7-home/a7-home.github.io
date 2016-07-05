@@ -97,9 +97,10 @@
         });
 
         var loginObs;
-        if (Parse.User.current() && !Parse.FacebookUtils.isLinked(Parse.User.current())) {
+        //if (Parse.User.current() && !Parse.FacebookUtils.isLinked(Parse.User.current())) {
+        if (Parse.User.current()) {
           loginObs = Rx.Observable.fromPromise(Parse.User.logOut())
-            .flatMap(function (it) { return Rx.Observable.fromPromise(parseFacebookLink()); });
+            .flatMap(function (it) { return Rx.Observable.fromPromise(parseFacebookLogIn()); });
         } else {
           loginObs = Rx.Observable.fromPromise(parseFacebookLogIn());
         }
