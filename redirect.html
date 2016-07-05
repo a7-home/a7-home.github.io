@@ -99,7 +99,7 @@
         var loginObs;
         if (Parse.User.current() && !Parse.FacebookUtils.isLinked(Parse.User.current())) {
           loginObs = Rx.Observable.fromPromise(Parse.User.logOut())
-            .flatMap(function (it) { return Rx.Observable.fromPromise(parseFacebookLink() }));
+            .flatMap(function (it) { return Rx.Observable.fromPromise(parseFacebookLink()); });
         } else {
           loginObs = Rx.Observable.fromPromise(parseFacebookLogIn());
         }
