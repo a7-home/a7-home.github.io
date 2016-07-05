@@ -106,11 +106,11 @@
         }
 
         function getFbAccessToken() {
-          return getFbLoginStatus().map(function (res) { return authResponse.accessToken; });
+          return getFbLoginStatus().map(function (res) { return res.authResponse.accessToken; });
         }
 
         function getFbId() {
-          return getFbLoginStatus().map(function (res) { return response.authResponse.userID; });
+          return getFbLoginStatus().map(function (res) { return res.authResponse.userID; });
         }
 
         var loginObs;
