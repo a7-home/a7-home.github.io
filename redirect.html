@@ -86,6 +86,33 @@
           version    : 'v2.3' // point to the latest Facebook Graph API version
         });
 
+        /**
+         *
+         * response.status === "connected"
+         * response.status === "not_authorized"
+         * response.status === "unknown"
+         */
+        function getFbLoginStatus() {
+          return Rx.Observable.create(function (sub) {
+            FB.getLoginStatus(function (response) {
+              sub.onNext(response);
+              sub.onCompleted();
+            });
+          });
+        }
+
+        function isFbLogin() {
+          return getFbLoginStatus().map(function (res) { res.status === "connected"; });
+        }
+
+        function getFbAccessToken() {
+          return getFbLoginStatus().map(function (res) { return authResponse.accessToken; });
+        }
+
+        function getFbId() {
+          return getFbLoginStatus().map(function (res) { return response.authResponse.userID; });
+        }
+
         var loginObs;
         //if (Parse.User.current() && !Parse.FacebookUtils.isLinked(Parse.User.current())) {
         if (Parse.User.current()) {
