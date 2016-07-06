@@ -95,7 +95,7 @@
       loginObs.subscribe(function (fbid) {
           console.log(fbid);
           var avatarUrl = 'http://graph.facebook.com/' + fbid + '/picture?type=large';
-          var avatarImg = '<img src="' + avatarUrl + '" class="img-responsive img-circle" alt="" />';
+          var avatarImg = '<img src="' + avatarUrl + '" class="img-responsive img-circle" alt="" width="38px" height="38px" />';
           $('#login').html(avatarImg);
       });
     };
