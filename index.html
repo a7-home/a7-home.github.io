@@ -234,15 +234,22 @@ function init() {
         return getFbLoginStatus().map(function (res) { return res.authResponse.userID; });
       }
 
+      var loginObs;
       if (Parse.User.current()) {
           console.log('parse logon');
-          getFbId().subscribe(function (fbid) {
-              console.log(fbid);
-              var avatarUrl = 'http://graph.facebook.com/' + fbid + '/picture?type=large';
-              var avatarImg = '<img src="' + avatarUrl + '" class="img-responsive img-circle" alt="" />';
-              $('#login').text(avatarImg);
+          loginObs = getFbId();
+      } else {
+          loginObs = Rx.Observable.fromPromise(parseFacebookLogIn()).flatMap(function (user) {
+              return getFbId();
           });
+          console.log('parse did not login');
       }
+      loginObs.subscribe(function (fbid) {
+          console.log(fbid);
+          var avatarUrl = 'http://graph.facebook.com/' + fbid + '/picture?type=large';
+          var avatarImg = '<img src="' + avatarUrl + '" class="img-responsive img-circle" alt="" />';
+          $('#login').text(avatarImg);
+      });
     };
 
     (function(d, s, id){
