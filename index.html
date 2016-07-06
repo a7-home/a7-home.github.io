@@ -3,28 +3,31 @@
 
 <head>
 
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta name="author" content="Andrew Chen" />
 
     <title>A7 宜居</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
 
     <!-- Custom CSS -->
-    <link href="css/agency.min.css" rel="stylesheet">
+    <link href="css/agency.min.css" rel="stylesheet" />
 
     <!-- Custom Fonts -->
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css' />
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css' />
     <link rel="shortcut icon" href="/favicon.ico"/>
     <link rel="bookmark" href="/favicon.ico"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/rxjs/4.1.0/rx.all.min.js"></script>
+    <script src="https://www.parsecdn.com/js/parse-1.6.14.min.js"></script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -185,6 +188,70 @@ function init() {
         icon: image
     });
 }
+
+    // Initialize Parse
+    Parse.initialize("188623204850625", "4d280ed561b365f0d942593795e78321");
+    Parse.serverURL = 'https://a7-home.herokuapp.com/parse';
+
+    var a7 = "188623204850625"; // 2.5
+    var a7_home = "504056536342678"; // 2.0
+    var a7_home_test = "1059426217472371"; // v2.0
+
+    window.fbAsyncInit = function() {
+      Parse.FacebookUtils.init({ // this line replaces FB.init({
+      //FB.init({ // this line replaces FB.init({
+        appId      : a7_home, // Facebook App ID
+        status     : true,  // check Facebook Login status
+        cookie     : true,  // enable cookies to allow Parse to access the session
+        xfbml      : true,  // initialize Facebook social plugins on the page
+        version    : 'v2.3' // point to the latest Facebook Graph API version
+      });
+
+      /**
+       *
+       * response.status === "connected"
+       * response.status === "not_authorized"
+       * response.status === "unknown"
+       */
+      function getFbLoginStatus() {
+        return Rx.Observable.create(function (sub) {
+          FB.getLoginStatus(function (response) {
+            sub.onNext(response);
+            sub.onCompleted();
+          });
+        });
+      }
+
+      function isFbLogin() {
+        return getFbLoginStatus().map(function (res) { res.status === "connected"; });
+      }
+
+      function getFbAccessToken() {
+        return getFbLoginStatus().map(function (res) { return res.authResponse.accessToken; });
+      }
+
+      function getFbId() {
+        return getFbLoginStatus().map(function (res) { return res.authResponse.userID; });
+      }
+
+      if (Parse.User.current()) {
+          console.log('parse logon');
+          getFbId().subscribe(function (fbid) {
+              console.log(fbid);
+              var avatarUrl = 'http://graph.facebook.com/' + fbid + '/picture?type=large';
+              var avatarImg = '<img src="' + avatarUrl + '" class="img-responsive img-circle" alt="" />';
+              $('#login').text(avatarImg);
+          });
+      }
+    };
+
+    (function(d, s, id){
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) {return;}
+      js = d.createElement(s); js.id = id;
+      js.src = "https://connect.facebook.net/en_US/sdk.js";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
     </script>
 
 </head>
@@ -307,7 +374,7 @@ function init() {
                                 <i class="fa fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/11951689_1137223369626341_4916722399061569212_o.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/11951689_1137223369626341_4916722399061569212_o.jpg" class="img-responsive" alt="" />
                     </a>
                     <div class="portfolio-caption">
                         <h4>遠雄文青</h4>
@@ -323,8 +390,8 @@ function init() {
                                 <i class="fa fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <!--<img src="https://github.com/a7-home/a7-home.github.io/raw/master/art/uppercity-happy-black-bg-rect.png" class="img-responsive" alt="">-->
-                        <img src="img/portfolio/IMG_20160507_143024.jpg" class="img-responsive" alt="">
+                        <!--<img src="https://github.com/a7-home/a7-home.github.io/raw/master/art/uppercity-happy-black-bg-rect.png" class="img-responsive" alt="" />-->
+                        <img src="img/portfolio/IMG_20160507_143024.jpg" class="img-responsive" alt="" />
                     </a>
                     <div class="portfolio-caption">
                         <h4>皇翔歡喜城</h4>
@@ -338,7 +405,7 @@ function init() {
                                 <i class="fa fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/8732233398_9c044afab1_z.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/8732233398_9c044afab1_z.jpg" class="img-responsive" alt="" />
                     </a>
                     <div class="portfolio-caption">
                         <h4>名軒快樂家</h4>
@@ -352,7 +419,7 @@ function init() {
                                 <i class="fa fa-eye fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/2111211367295236.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/2111211367295236.jpg" class="img-responsive" alt="" />
                     </a>
                     <div class="portfolio-caption">
                         <h4>麗寶快樂家</h4>
@@ -377,7 +444,7 @@ function init() {
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="" />
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
@@ -498,7 +565,7 @@ function init() {
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="http://graph.facebook.com/601474117/picture?type=large" class="img-responsive img-circle" alt="">
+                        <img src="http://graph.facebook.com/601474117/picture?type=large" class="img-responsive img-circle" alt="" />
                         <h4>Andrew Chen</h4>
                         <p class="text-muted">技術顧問</p>
                         <ul class="list-inline social-buttons">
@@ -513,14 +580,14 @@ function init() {
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="http://graph.facebook.com/100000160675285/picture?type=large" class="img-responsive img-circle" alt="">
+                        <img src="http://graph.facebook.com/100000160675285/picture?type=large" class="img-responsive img-circle" alt="" />
                         <h4>JS Chen</h4>
                         <p class="text-muted">榮譽顧問</p>
                     </div>
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img src="http://graph.facebook.com/100001247902171/picture?width=170&height=170" class="img-responsive img-circle" alt="">
+                        <img src="http://graph.facebook.com/100001247902171/picture?width=170&height=170" class="img-responsive img-circle" alt="" />
                         <h4>Patric Wu</h4>
                         <p class="text-muted">榮譽顧問</p>
                     </div>
@@ -640,7 +707,7 @@ function init() {
                         </li>
                         <li><a href="/terms.html">使用規範</a>
                         </li>
-                        <li><a href="/login.html">登入</a>
+                        <li><span id="login"><a href="/login.html">登入</a></span>
                         </li>
                     </ul>
                 </div>
