@@ -96,7 +96,7 @@
           console.log(fbid);
           var avatarUrl = 'http://graph.facebook.com/' + fbid + '/picture?type=large';
           var avatarImg = '<img src="' + avatarUrl + '" class="img-responsive img-circle" alt="" />';
-          $('#login').val(avatarImg);
+          $('#login').html(avatarImg);
       });
     };
 
