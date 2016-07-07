@@ -109,6 +109,22 @@ body {
 <body>
 <script>
     $(function() {
+        var qs;
+        (window.onpopstate = function () {
+            var match,
+                pl     = /\+/g,  // Regex for replacing addition symbol with a space
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query  = window.location.search.substring(1);
+
+            qs = {};
+            while (match = search.exec(query))
+               qs[decode(match[1])] = decode(match[2]);
+        })();
+
+        if (qs['car']) $('#tspan8319').text(qs['car']);
+        if (qs['park']) $('#tspan8871').text(qs['park']);
+
         //var svg = document.getElementById("svg");
         $('input[name=car-id]').keyup(function () {
             console.log($(this).val());
