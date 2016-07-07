@@ -122,8 +122,14 @@ body {
                qs[decode(match[1])] = decode(match[2]);
         })();
 
-        if (qs['car']) $('#tspan8319').text(qs['car']);
-        if (qs['park']) $('#tspan8871').text(qs['park']);
+        if (qs['car']) {
+            $('#tspan8319').text(qs['car']);
+            $('input[name=car-id]').text(qs['car']);
+        }
+        if (qs['park']) {
+            $('#tspan8871').text(qs['park']);
+            $('input[name=park-id]').text(qs['park']);
+        }
 
         //var svg = document.getElementById("svg");
         $('input[name=car-id]').keyup(function () {
