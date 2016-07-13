@@ -309,6 +309,17 @@
        fx="-107.56053"
        fy="636.57196"
        r="87.670425" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10934"
+       id="radialGradient8349"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.3015512,-2.3015512,0.70710678,-0.70710678,-505.79709,436.8876)"
+       cx="-107.56053"
+       cy="636.57196"
+       fx="-107.56053"
+       fy="636.57196"
+       r="87.670425" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -317,9 +328,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5824404"
-     inkscape:cx="328.6894"
-     inkscape:cy="-13.717025"
+     inkscape:zoom="0.2912202"
+     inkscape:cx="-557.55473"
+     inkscape:cy="-1849.5183"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:window-width="1855"
@@ -1787,5 +1798,144 @@
          id="tspan8373"
          x="-183.5377"
          y="95.445847">文青</tspan></text>
+    <rect
+       ry="80.906639"
+       y="1472.3778"
+       x="-2090.2434"
+       height="1045.0399"
+       width="2839.3831"
+       id="rect8316"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:34.96021652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-ydpi="90.044312" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       id="path8318"
+       d="m -1480.8924,1480.2993 0,1032.0234 -505.5159,0 c -59.5203,-0.1716 -89.7508,-23.3722 -97.9888,-63.854 l 1.7905,-888.7824 c 7.2169,-47.2523 37.6862,-76.2301 96.1988,-83.1673 l 505.5154,3.7803 z"
+       style="fill:#003399;fill-opacity:1;fill-rule:evenodd;stroke:#003399;stroke-width:16.88518143px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-ydpi="90.044312" />
+    <g
+       transform="matrix(1.66677,0,0,1.6770789,-2091.7314,1330.9204)"
+       id="g8322"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-ydpi="90.044312">
+      <circle
+         style="opacity:1;fill:#290e06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.43196535;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:53;stroke-opacity:1"
+         id="circle8324"
+         cx="191.88326"
+         cy="234.31929"
+         r="84.971458" />
+      <path
+         d="m 109.71034,234.31929 6.78571,-6.78571 6.78572,6.78571 -6.78572,6.78572 z m 150.68233,2e-5 6.78572,-6.78572 6.78571,6.78572 -6.78571,6.78571 z m -75.29509,-75.39944 6.78572,-6.78572 6.7857,6.78572 -6.7857,6.78571 z m -4e-5,150.73273 6.78572,-6.78571 6.7857,6.78571 -6.7857,6.78571 z m 6.78575,-163.02079 c -48.39627,0 -87.68751,39.29124 -87.68751,87.68751 0,48.39625 39.29124,87.6875 87.68751,87.6875 48.39625,-2e-5 87.68749,-39.29125 87.68749,-87.6875 10e-6,-48.39627 -39.29124,-87.68752 -87.68749,-87.68751 z m 0,5.43164 c 45.46061,0 82.25586,36.79525 82.25585,82.25587 10e-6,45.4606 -36.79524,82.25585 -82.25585,82.25585 -45.46061,0 -82.25586,-36.79525 -82.25586,-82.25585 0,-45.46063 36.79525,-82.25587 82.25586,-82.25587 z m 1.60707,13.74103 c -8.28441,10e-6 -16.5652,3.00088 -23.06641,8.99023 -0.5876,-0.0303 -1.1785,-0.0469 -1.77349,-0.0469 -18.3115,-2e-5 -33.28721,14.52231 -34.03121,32.6543 -0.43726,0.39442 -0.86801,0.80155 -1.2891,1.22264 -12.9473,12.94734 -13.2672,33.80296 -0.9746,47.15038 -0.031,0.58952 -0.047,1.18231 -0.047,1.7793 -1e-5,18.31215 14.52529,33.28817 32.65819,34.03124 0.39443,0.43728 0.79964,0.86795 1.22074,1.28904 12.9486,12.94864 33.80699,13.26897 47.15429,0.97265 0.5883,0.0304 1.1797,0.0469 1.77539,0.0469 18.31221,2e-5 33.28641,-14.5234 34.02931,-32.65624 0.43727,-0.39442 0.86803,-0.79959 1.28912,-1.22068 12.9479,-12.9479 13.2689,-33.80497 0.97461,-47.15233 0.03,-0.58889 0.047,-1.18103 0.047,-1.77735 0,-18.31022 -14.5221,-33.28338 -32.65241,-34.02929 -0.395,-0.43801 -0.8029,-0.86927 -1.22459,-1.29102 -6.6416,-6.64159 -15.366,-9.96289 -24.08979,-9.96289 z m 0,4.96875 c 6.57559,0 13.14768,2.22849 18.51359,6.67773 -6.8529,1.09294 -13.0254,4.23769 -17.8769,8.78125 -4.43739,-5.00061 -10.31519,-8.69483 -16.98239,-10.41211 4.92079,-3.36001 10.63129,-5.04686 16.3457,-5.04687 z m -27.59381,9.10547 c -4.0727,5.61863 -6.214,12.20822 -6.43159,18.85156 -0.68191,-0.0407 -1.3641,-0.0684 -2.0469,-0.0684 -6.00081,-2e-5 -11.9996,1.57222 -17.3223,4.71484 2.37299,-12.59202 12.8303,-22.28491 25.80079,-23.49804 z m 6.3945,0.10156 c 7.36541,0.91636 13.8638,4.57197 18.44731,9.92383 -4.54361,5.70476 -7.29691,12.89247 -7.40431,20.71094 -0.5805,-0.67984 -1.1834,-1.34752 -1.8262,-1.99024 -4.8548,-4.85485 -10.8229,-7.92816 -17.0898,-9.23437 0.11151,-6.98805 2.7357,-13.93869 7.873,-19.41016 z m 44.16409,2.06445 c 4.55901,5.85621 6.5672,13.03537 6.02341,20.06055 -7.24641,0.82164 -14.2751,3.95592 -19.8789,9.4082 0.07,-0.89167 0.1172,-1.7898 0.11719,-2.69922 1e-5,-6.86528 -2.0475,-13.25888 -5.55469,-18.61328 5.02009,-4.86181 11.7916,-7.92028 19.29299,-8.15625 z m 6.37501,0.49024 c 12.59119,2.37417 22.28369,12.83082 23.4961,25.80078 -5.6183,-4.07346 -12.208,-6.21359 -18.8516,-6.43164 0.39839,-6.67301 -1.1453,-13.44081 -4.6445,-19.36914 z m -29.07229,11.61328 c 2.51389,4.30285 3.95899,9.31108 3.959,14.66601 -1e-5,6.3283 -2.01541,12.1727 -5.43361,16.93946 -2.51429,-4.30316 -3.9609,-9.31055 -3.96089,-14.66602 -1e-5,-6.32855 2.01709,-12.17296 5.4355,-16.93945 z m -36.33981,9.48242 c 0.7498,0 1.50011,0.0359 2.248,0.0937 0.8216,7.24756 3.9581,14.27636 9.41221,19.88086 -0.89231,-0.0704 -1.7911,-0.11719 -2.70121,-0.11719 -6.8647,2e-5 -13.2569,2.04811 -18.6113,5.55469 -4.863,-5.02031 -7.9237,-11.7913 -8.1602,-19.29297 5.23241,-4.07431 11.52,-6.11915 17.81251,-6.11914 z m 7.38481,0.95898 c 4.82039,1.26507 9.38349,3.78394 13.1699,7.57032 4.47479,4.47487 7.1815,10.03259 8.1347,15.82031 -4.82091,-1.2649 -9.38491,-3.78339 -13.1718,-7.57031 -4.47461,-4.47454 -7.1794,-10.03305 -8.1328,-15.82032 z m 62.00969,2.26758 c 6.9886,0.11139 13.9404,2.73489 19.41209,7.87305 -0.91689,7.3651 -4.5752,13.86018 -9.9277,18.44334 -5.7047,-4.54273 -12.8913,-7.29542 -20.709,-7.40232 0.68061,-0.58105 1.3488,-1.1828 1.99221,-1.82618 4.8543,-4.85424 7.92609,-10.82209 9.2324,-17.08789 z m -5.19921,0.38282 c -1.26509,4.82013 -3.78389,9.38356 -7.5703,13.16992 -4.4743,4.47431 -10.0314,7.17922 -15.81838,8.13281 1.26519,-4.81984 3.78219,-9.38181 7.56838,-13.16797 4.47441,-4.47438 10.033,-7.1812 15.8203,-8.13476 z m -86.59958,6.96093 c 1.09339,6.85249 4.23759,13.02545 8.78119,17.87695 -4.99999,4.43655 -8.69609,10.31283 -10.414,16.97851 -7.2233,-10.5817 -6.6803,-24.82741 1.63281,-34.85546 z m 115.37108,5.38282 c 7.22461,10.58187 6.6827,24.82876 -1.6309,34.8574 -1.0932,-6.85297 -4.2394,-13.02528 -8.7832,-17.87694 5.00091,-4.43703 8.6963,-10.31369 10.4141,-16.98046 z m -84.00779,8.90429 c 6.3287,-1e-5 12.17291,2.01696 16.9394,5.43553 -4.3028,2.51415 -9.31109,3.95898 -14.666,3.959 -6.32769,0 -12.17099,-2.01756 -16.9375,-5.43555 4.3028,-2.51331 9.30981,-3.95897 14.6641,-3.95898 z m 20.709,1.03515 9.5957,0 0,9.5957 -9.5957,1e-5 0,-9.59571 z m 28.0312,1.23633 c 6.3276,-1e-5 12.1714,2.01578 16.93749,5.4336 -4.30329,2.51414 -9.3107,3.96094 -14.66599,3.96093 -6.3282,-1e-5 -12.1712,-2.01746 -16.9375,-5.43554 4.30309,-2.51413 9.31109,-3.95899 14.666,-3.95899 z m -67.6484,4.70898 c 5.70481,4.54296 12.8915,7.295 20.70901,7.40233 -0.67981,0.58053 -1.34761,1.18346 -1.99031,1.82618 -4.8543,4.85428 -7.9261,10.82205 -9.2324,17.08788 -6.9883,-0.11137 -13.9405,-2.73555 -19.41209,-7.87303 0.91689,-7.36476 4.5737,-13.86024 9.92579,-18.44336 z m 88.53319,4.12891 c 4.8622,5.01989 7.92131,11.7919 8.1582,19.29296 -5.8561,4.56 -13.035,6.57066 -20.0606,6.02735 -0.8213,-7.24766 -3.9562,-14.27619 -9.41009,-19.88086 0.89159,0.0703 1.7898,0.11718 2.6992,0.11718 6.8656,2e-5 13.25839,-2.04927 18.61329,-5.55663 z m -50.45899,0.49999 c -1.26509,4.82013 -3.78399,9.38357 -7.57029,13.16993 -4.47441,4.47433 -10.03141,7.17922 -15.8184,8.13281 1.2652,-4.81984 3.7822,-9.38181 7.56839,-13.16797 4.4748,-4.47488 10.0329,-7.18148 15.8203,-8.13477 z m 12.11721,0.56446 c 4.82038,1.26507 9.38348,3.78393 13.16988,7.57031 4.4749,4.47486 7.1815,10.0326 8.13481,15.82031 -4.82101,-1.26489 -9.38501,-3.7834 -13.1719,-7.57031 -4.47451,-4.47455 -7.1793,-10.03305 -8.13279,-15.82031 z m -6.1758,2.22851 c 2.51329,4.30253 3.95899,9.30973 3.95899,14.66406 0,6.32832 -2.0154,12.17269 -5.4336,16.93946 -2.5145,-4.3031 -3.9609,-9.31065 -3.9609,-14.66602 0,-6.32776 2.01751,-12.17098 5.43551,-16.9375 z m -10.3184,14.23632 c -0.07,0.89231 -0.11711,1.7911 -0.1171,2.70118 -1e-5,6.86596 2.04849,13.25854 5.55659,18.61328 -5.0193,4.86198 -11.7907,7.92127 -19.29099,8.15821 -4.5604,-5.85667 -6.5712,-13.03628 -6.02741,-20.0625 7.2472,-0.82123 14.27441,-3.95699 19.87891,-9.41017 z m 19.26568,0.89845 c 0.581,0.68056 1.1828,1.34881 1.82611,1.99218 4.85479,4.85475 10.82339,7.92633 17.08989,9.23243 -0.1114,6.98741 -2.7348,13.93882 -7.87109,19.41014 -7.3658,-0.9164 -13.86329,-4.5716 -18.4473,-9.92381 4.5431,-5.70536 7.2955,-12.8925 7.40239,-20.71094 z m -62.99029,2.28125 c 5.61851,4.07262 12.2084,6.21389 18.8516,6.43164 -0.3983,6.6737 1.14641,13.44235 4.6465,19.37109 -12.59299,-2.37315 -22.2855,-12.83134 -23.4981,-25.80273 z m 106.22849,4.95898 c -2.3731,12.59135 -12.8289,22.28299 -25.79879,23.4961 4.0721,-5.61822 6.21199,-12.20695 6.42969,-18.84961 6.67321,0.39797 13.4409,-1.1467 19.3691,-4.64649 z m -54.02929,17.14453 c 4.4373,4.9999 10.31409,8.69471 16.98049,10.41211 -10.58188,7.22489 -24.82869,6.68289 -34.85738,-1.63086 6.85229,-1.09335 13.02579,-4.23758 17.87689,-8.78125 z"
+         style="opacity:1;fill:url(#radialGradient8349);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path8326"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:317.53619385px;line-height:125%;font-family:'Noto Sans CJK TC';-inkscape-font-specification:'Noto Sans CJK TC, Heavy';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-954.86536"
+       y="1877.0536"
+       id="text8328"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-ydpi="90.044312"
+       transform="scale(0.9969218,1.0030877)"><tspan
+         sodipodi:role="line"
+         id="tspan8387"
+         x="-954.86536"
+         y="1877.0536">區大會</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8333"
+       y="2114.9409"
+       x="-488.59335"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:160.52403259px;line-height:125%;font-family:'PT Mono';-inkscape-font-specification:'PT Mono, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-ydpi="90.044312"
+       transform="scale(0.9969218,1.0030877)"><tspan
+         sodipodi:role="line"
+         id="tspan8393"
+         x="-488.59332"
+         y="2114.9409">7/24 日 9am</tspan></text>
+    <text
+       inkscape:export-ydpi="90.044312"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       sodipodi:linespacing="125%"
+       id="text8337"
+       y="2399.9839"
+       x="-1904.9049"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:151.21243286px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99692178,1.0030877)"><tspan
+         sodipodi:role="line"
+         id="tspan8339"
+         x="-1904.9049"
+         y="2399.9839">105</tspan></text>
+    <text
+       inkscape:export-ydpi="90.044312"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.57261658px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1906.667"
+       y="2037.7516"
+       id="text8341"
+       sodipodi:linespacing="125%"
+       transform="scale(0.99692178,1.0030877)"><tspan
+         y="2037.7516"
+         x="-1906.667"
+         id="tspan8343"
+         sodipodi:role="line">遠雄</tspan></text>
+    <text
+       inkscape:export-ydpi="90.044312"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       sodipodi:linespacing="125%"
+       id="text8345"
+       y="2195.4614"
+       x="-1906.1288"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:134.57261658px;line-height:125%;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.99692178,1.0030877)"><tspan
+         y="2195.4614"
+         x="-1906.1288"
+         id="tspan8347"
+         sodipodi:role="line">文青</tspan></text>
+    <text
+       inkscape:export-ydpi="90.044312"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       sodipodi:linespacing="125%"
+       id="text8395"
+       y="2297.4341"
+       x="-792.93439"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:123.54736328px;line-height:125%;font-family:'PT Mono';-inkscape-font-specification:'PT Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.9969218,1.0030877)"><tspan
+         sodipodi:role="line"
+         id="tspan8399"
+         x="-792.93439"
+         y="2297.4341">體大體育館</tspan></text>
+    <rect
+       inkscape:export-ydpi="90.044312"
+       inkscape:export-xdpi="90.044312"
+       inkscape:export-filename="farhip-1st-owners-conference.png"
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:34.96021652;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8368"
+       width="2839.3831"
+       height="1045.0399"
+       x="-2090.2434"
+       y="1472.3778"
+       ry="80.906639" />
   </g>
 </svg>
