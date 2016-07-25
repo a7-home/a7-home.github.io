@@ -128,6 +128,15 @@
         </div>
     </section>
 
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.7&appId=504056536342678";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
     <!-- Services Section -->
     <section id="volunteer" class="bg-light-gray">
         <div class="container">
@@ -137,6 +146,7 @@
                     <div id="rsvp" class="text-center">
                         <a href="/redirect.html?redirect=http%3A%2F%2Fgoo.gl%2Fforms%2FpURIGEwNzdS1rydJ3" class="btn btn-xl">報名</a>
                     </div>
+                    <div class="fb-comments" data-width="100%"></div>
                 </div>
             </div>
         </div>
