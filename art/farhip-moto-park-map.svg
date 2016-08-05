@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,9 +133,9 @@
      inkscape:window-height="1056"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.33615194"
-     inkscape:cx="170.87436"
-     inkscape:cy="595.63208"
+     inkscape:zoom="0.47539063"
+     inkscape:cx="426.3936"
+     inkscape:cy="549.24532"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -320,10 +320,10 @@
      inkscape:export-ydpi="320" />
   <path
      id="path17427"
-     d="m 4.9672054,916.79488 0,118.04962 c 0.6056154,25.4411 10.1237646,23.9355 31.8903246,24.1331 l 278.39192,0 0,-38.7853 0.0217,0 0,-18.4818 c -0.83668,-0.7437 -1.25463,-1.0226 -1.25463,-1.0226 0,0 -0.55778,-0.70446 -1.67335,-0.98335 l -35.10514,0 0,0.0161 -152.2092,0 0,-82.91917 -111.876826,0 z"
-     style="opacity:1;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 80.082048,1014.9648 0,20.6234 c 0.605615,25.4411 10.123765,23.9355 31.890322,24.1331 l 203.27708,-0.7437 0,-38.7853 0.0217,0 0,-15.8788 c -0.83668,-0.7437 -0.51092,-12.17828 -0.51092,-12.17828 0,0 -0.18592,-31.19662 -1.30149,-31.47551 l -52.95421,-0.37186 0.74371,40.92025 -165.916136,-2.59837 c -11.89938,4.09037 -15.250056,16.35507 -15.250056,16.35507 z"
+     style="opacity:0.81099997;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccccccccc"
+     sodipodi:nodetypes="ccccccccccccc"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
      inkscape:export-ydpi="320" />
@@ -356,10 +356,10 @@
      inkscape:export-ydpi="320" />
   <path
      style="opacity:1;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 279.93076,493.12215 -130.9277,311.90647 37.03099,16.40549 13.65691,25.25026 48.93514,22.06634 103.50227,-249.47284 35.52511,-92.32969 -95.67999,-39.51576 c -4.87569,-1.82844 -10.21444,1.11878 -12.04273,5.68973 z"
+     d="m 341.90165,643.71064 10.22672,-24.43277 35.52511,-92.32969 -42.03989,-16.37689 c -4.87569,-1.82844 -10.21444,1.11878 -12.04273,5.68973 l -42.11537,104.6826 z"
      id="path17435"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccccc"
+     sodipodi:nodetypes="ccccccc"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
      inkscape:export-ydpi="320" />
@@ -389,22 +389,31 @@
   <text
      sodipodi:linespacing="125%"
      id="text17443"
-     y="994.11096"
-     x="38.245167"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.40989685px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     y="1046.447"
+     x="257.94736"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.49926758px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      xml:space="preserve"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
      inkscape:export-ydpi="320"><tspan
        sodipodi:role="line"
        id="tspan17445"
-       x="38.245167"
-       y="994.11096">B</tspan></text>
+       x="257.94736"
+       y="1046.447">B</tspan></text>
+  <path
+     inkscape:export-ydpi="320"
+     inkscape:export-xdpi="320"
+     inkscape:export-filename="farhip-moto-park-map-a7-land.png"
+     sodipodi:nodetypes="cccccc"
+     inkscape:connector-curvature="0"
+     id="path8463"
+     d="m 245.99886,729.80711 -41.95851,104.96356 -5.92705,10.33606 48.93514,22.06634 50.884,-115.71451 z"
+     style="opacity:1;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.78612518px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="244.89867"
-     y="691.14185"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.78612518px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+     x="274.95065"
+     y="835.5"
      id="text17447"
      sodipodi:linespacing="125%"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
@@ -412,22 +421,22 @@
      inkscape:export-ydpi="320"><tspan
        sodipodi:role="line"
        id="tspan17449"
-       x="244.89867"
-       y="691.14185">C</tspan></text>
+       x="274.95065"
+       y="835.5">C</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text17451"
-     y="642.21985"
-     x="247.84575"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.78612518px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     y="614.70251"
+     x="371.30182"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:57.78612518px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      xml:space="preserve"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
      inkscape:export-ydpi="320"><tspan
        sodipodi:role="line"
        id="tspan17453"
-       x="247.84575"
-       y="642.21985">D</tspan></text>
+       x="371.30182"
+       y="614.70251">D</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.01150131px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1413,7 +1422,7 @@
        ry="9.0598059" />
   </g>
   <g
-     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,58.07061,738.1036)"
+     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,63.8927,792.76638)"
      id="g8605"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
@@ -1543,7 +1552,7 @@
   </g>
   <g
      id="g8635"
-     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,80.736031,678.60109)"
+     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,86.558121,733.26387)"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
      inkscape:export-ydpi="320">
@@ -1672,7 +1681,7 @@
   </g>
   <g
      id="g8725"
-     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,126.96132,551.94091)"
+     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,155.24878,569.04627)"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
      inkscape:export-ydpi="320">
@@ -1800,7 +1809,7 @@
        style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
-     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,149.62675,492.4384)"
+     transform="matrix(0.04972577,-0.11809004,0.11809004,0.04972577,177.91421,509.54376)"
      id="g8755"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
      inkscape:export-xdpi="320"
