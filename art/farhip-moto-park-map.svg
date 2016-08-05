@@ -134,8 +134,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.47539063"
-     inkscape:cx="426.3936"
-     inkscape:cy="549.24532"
+     inkscape:cx="835.82267"
+     inkscape:cy="533.90705"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -321,7 +321,7 @@
   <path
      id="path17427"
      d="m 80.082048,1014.9648 0,20.6234 c 0.605615,25.4411 10.123765,23.9355 31.890322,24.1331 l 203.27708,-0.7437 0,-38.7853 0.0217,0 0,-15.8788 c -0.83668,-0.7437 -0.51092,-12.17828 -0.51092,-12.17828 0,0 -0.18592,-31.19662 -1.30149,-31.47551 l -52.95421,-0.37186 0.74371,40.92025 -165.916136,-2.59837 c -11.89938,4.09037 -15.250056,16.35507 -15.250056,16.35507 z"
-     style="opacity:0.81099997;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccc"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
@@ -329,7 +329,7 @@
      inkscape:export-ydpi="320" />
   <path
      style="opacity:1;fill:#fece2a;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:5.47631025;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 356.71188,995.8167 0,28.6463 0.82748,-3.7286 0,0.3932 -0.28928,0 0,39.8298 319.61097,0 c 17.3876,-0.8145 21.73966,-6.6403 21.73966,-24.8083 l 0,-15.4147 0,3.7286 0,-1.2206 c 0,-25.85722 -8.61907,-26.56382 -25.85704,-27.4257 z"
+     d="m 356.71188,990.61072 0,28.64628 0.82748,-3.7286 0,0.3932 -0.28928,0 0,39.8298 319.61097,0 c 17.3876,-0.8145 21.73966,-6.6403 21.73966,-24.8083 l 0,-15.4147 0,3.7286 0,-1.2206 c 0,-25.8572 -8.61907,-26.5638 -25.85704,-27.42568 z"
      id="path17429"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccccccc"
@@ -376,7 +376,7 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:72.73780823px;line-height:125%;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      x="421.05411"
-     y="1051.1874"
+     y="1048.2125"
      id="text17439"
      sodipodi:linespacing="125%"
      inkscape:export-filename="farhip-moto-park-map-a7-land.png"
@@ -385,7 +385,7 @@
        sodipodi:role="line"
        id="tspan17441"
        x="421.05411"
-       y="1051.1874">A</tspan></text>
+       y="1048.2125">A</tspan></text>
   <text
      sodipodi:linespacing="125%"
      id="text17443"
